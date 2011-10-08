@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1318071242
-ModificationTime: 1318075430
+ModificationTime: 1318075809
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -75,6 +75,7 @@ SplineSet
  106 649 l 1
  106 -121 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: space
@@ -88,7 +89,6 @@ StartChar: uni07E8
 Encoding: 2024 2024 2
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -97,7 +97,6 @@ StartChar: uni07E9
 Encoding: 2025 2025 3
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -106,7 +105,6 @@ StartChar: uni07EA
 Encoding: 2026 2026 4
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -115,7 +113,6 @@ StartChar: uni07F6
 Encoding: 2038 2038 5
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -124,7 +121,6 @@ StartChar: uni07F7
 Encoding: 2039 2039 6
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -133,7 +129,6 @@ StartChar: uni13A0
 Encoding: 5024 5024 7
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -142,7 +137,6 @@ StartChar: uni13A1
 Encoding: 5025 5025 8
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -151,7 +145,6 @@ StartChar: uni13A2
 Encoding: 5026 5026 9
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -160,7 +153,6 @@ StartChar: uni13A3
 Encoding: 5027 5027 10
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -169,7 +161,6 @@ StartChar: uni13A4
 Encoding: 5028 5028 11
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -178,7 +169,6 @@ StartChar: uni13A5
 Encoding: 5029 5029 12
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -187,7 +177,6 @@ StartChar: uni13A6
 Encoding: 5030 5030 13
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -196,7 +185,6 @@ StartChar: uni13A7
 Encoding: 5031 5031 14
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -205,7 +193,6 @@ StartChar: uni13A8
 Encoding: 5032 5032 15
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -214,7 +201,6 @@ StartChar: uni13A9
 Encoding: 5033 5033 16
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -223,7 +209,6 @@ StartChar: uni13AA
 Encoding: 5034 5034 17
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -232,7 +217,6 @@ StartChar: uni13AB
 Encoding: 5035 5035 18
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -241,7 +225,6 @@ StartChar: uni13AC
 Encoding: 5036 5036 19
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -250,7 +233,6 @@ StartChar: uni13AD
 Encoding: 5037 5037 20
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -259,7 +241,6 @@ StartChar: uni13AE
 Encoding: 5038 5038 21
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -268,7 +249,6 @@ StartChar: uni13AF
 Encoding: 5039 5039 22
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -277,7 +257,6 @@ StartChar: uni13B0
 Encoding: 5040 5040 23
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -286,7 +265,6 @@ StartChar: uni13B1
 Encoding: 5041 5041 24
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -295,7 +273,6 @@ StartChar: uni13B2
 Encoding: 5042 5042 25
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -304,7 +281,6 @@ StartChar: uni13B3
 Encoding: 5043 5043 26
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -313,7 +289,6 @@ StartChar: uni13B4
 Encoding: 5044 5044 27
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -322,7 +297,6 @@ StartChar: uni13B5
 Encoding: 5045 5045 28
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -331,7 +305,6 @@ StartChar: uni13B6
 Encoding: 5046 5046 29
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -340,7 +313,6 @@ StartChar: uni13B7
 Encoding: 5047 5047 30
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -349,7 +321,6 @@ StartChar: uni13B8
 Encoding: 5048 5048 31
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -358,7 +329,6 @@ StartChar: uni13B9
 Encoding: 5049 5049 32
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -367,7 +337,6 @@ StartChar: uni13BA
 Encoding: 5050 5050 33
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -376,7 +345,6 @@ StartChar: uni13BB
 Encoding: 5051 5051 34
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -385,7 +353,6 @@ StartChar: uni13BC
 Encoding: 5052 5052 35
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -394,7 +361,6 @@ StartChar: uni13BD
 Encoding: 5053 5053 36
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -403,7 +369,6 @@ StartChar: uni13BE
 Encoding: 5054 5054 37
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -412,7 +377,6 @@ StartChar: uni13BF
 Encoding: 5055 5055 38
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -421,7 +385,6 @@ StartChar: uni13C0
 Encoding: 5056 5056 39
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -430,7 +393,6 @@ StartChar: uni13C1
 Encoding: 5057 5057 40
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -439,7 +401,6 @@ StartChar: uni13C2
 Encoding: 5058 5058 41
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -448,7 +409,6 @@ StartChar: uni13C3
 Encoding: 5059 5059 42
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -457,7 +417,6 @@ StartChar: uni13C4
 Encoding: 5060 5060 43
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -466,7 +425,6 @@ StartChar: uni13C5
 Encoding: 5061 5061 44
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -475,7 +433,6 @@ StartChar: uni13C6
 Encoding: 5062 5062 45
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -484,7 +441,6 @@ StartChar: uni13C7
 Encoding: 5063 5063 46
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -493,7 +449,6 @@ StartChar: uni13C8
 Encoding: 5064 5064 47
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -502,7 +457,6 @@ StartChar: uni13C9
 Encoding: 5065 5065 48
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -511,7 +465,6 @@ StartChar: uni13CA
 Encoding: 5066 5066 49
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -520,7 +473,6 @@ StartChar: uni13CB
 Encoding: 5067 5067 50
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -529,7 +481,6 @@ StartChar: uni13CC
 Encoding: 5068 5068 51
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -538,7 +489,6 @@ StartChar: uni13CD
 Encoding: 5069 5069 52
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -547,7 +497,6 @@ StartChar: uni13CE
 Encoding: 5070 5070 53
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -556,7 +505,6 @@ StartChar: uni13CF
 Encoding: 5071 5071 54
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -565,7 +513,6 @@ StartChar: uni13D0
 Encoding: 5072 5072 55
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -574,7 +521,6 @@ StartChar: uni13D1
 Encoding: 5073 5073 56
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -583,7 +529,6 @@ StartChar: uni13D2
 Encoding: 5074 5074 57
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -592,7 +537,6 @@ StartChar: uni13D3
 Encoding: 5075 5075 58
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -601,7 +545,6 @@ StartChar: uni13D4
 Encoding: 5076 5076 59
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -610,7 +553,6 @@ StartChar: uni13D5
 Encoding: 5077 5077 60
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -619,7 +561,6 @@ StartChar: uni13D6
 Encoding: 5078 5078 61
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -628,7 +569,6 @@ StartChar: uni13D7
 Encoding: 5079 5079 62
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -637,7 +577,6 @@ StartChar: uni13D8
 Encoding: 5080 5080 63
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -646,7 +585,6 @@ StartChar: uni13D9
 Encoding: 5081 5081 64
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -655,7 +593,6 @@ StartChar: uni13DA
 Encoding: 5082 5082 65
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -664,7 +601,6 @@ StartChar: uni13DB
 Encoding: 5083 5083 66
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -673,7 +609,6 @@ StartChar: uni13DC
 Encoding: 5084 5084 67
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -682,7 +617,6 @@ StartChar: uni13DD
 Encoding: 5085 5085 68
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -691,7 +625,6 @@ StartChar: uni13DE
 Encoding: 5086 5086 69
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -700,7 +633,6 @@ StartChar: uni13DF
 Encoding: 5087 5087 70
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -709,7 +641,6 @@ StartChar: uni13E0
 Encoding: 5088 5088 71
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -718,7 +649,6 @@ StartChar: uni13E1
 Encoding: 5089 5089 72
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -727,7 +657,6 @@ StartChar: uni13E2
 Encoding: 5090 5090 73
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -736,7 +665,6 @@ StartChar: uni13E3
 Encoding: 5091 5091 74
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -745,7 +673,6 @@ StartChar: uni13E4
 Encoding: 5092 5092 75
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -754,7 +681,6 @@ StartChar: uni13E5
 Encoding: 5093 5093 76
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -763,7 +689,6 @@ StartChar: uni13E6
 Encoding: 5094 5094 77
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -772,7 +697,6 @@ StartChar: uni13E7
 Encoding: 5095 5095 78
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -781,7 +705,6 @@ StartChar: uni13E8
 Encoding: 5096 5096 79
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -790,7 +713,6 @@ StartChar: uni13E9
 Encoding: 5097 5097 80
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -799,7 +721,6 @@ StartChar: uni13EA
 Encoding: 5098 5098 81
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -808,7 +729,6 @@ StartChar: uni13EB
 Encoding: 5099 5099 82
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -817,7 +737,6 @@ StartChar: uni13EC
 Encoding: 5100 5100 83
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -826,7 +745,6 @@ StartChar: uni13ED
 Encoding: 5101 5101 84
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -835,7 +753,6 @@ StartChar: uni13EE
 Encoding: 5102 5102 85
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -844,7 +761,6 @@ StartChar: uni13EF
 Encoding: 5103 5103 86
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -853,7 +769,6 @@ StartChar: uni13F0
 Encoding: 5104 5104 87
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -862,7 +777,6 @@ StartChar: uni13F1
 Encoding: 5105 5105 88
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -871,7 +785,6 @@ StartChar: uni13F2
 Encoding: 5106 5106 89
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -880,7 +793,6 @@ StartChar: uni13F3
 Encoding: 5107 5107 90
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -889,7 +801,6 @@ StartChar: uni13F4
 Encoding: 5108 5108 91
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -898,7 +809,6 @@ StartChar: uni1408
 Encoding: 5128 5128 92
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -907,7 +817,6 @@ StartChar: uni141C
 Encoding: 5148 5148 93
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -916,7 +825,6 @@ StartChar: uni1436
 Encoding: 5174 5174 94
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -925,7 +833,6 @@ StartChar: uni144B
 Encoding: 5195 5195 95
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -934,7 +841,6 @@ StartChar: uni1453
 Encoding: 5203 5203 96
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -943,7 +849,6 @@ StartChar: uni14BE
 Encoding: 5310 5310 97
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -952,7 +857,6 @@ StartChar: uni14BF
 Encoding: 5311 5311 98
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -961,7 +865,6 @@ StartChar: uni14EB
 Encoding: 5355 5355 99
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -970,7 +873,6 @@ StartChar: uni1508
 Encoding: 5384 5384 100
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -979,7 +881,6 @@ StartChar: uni1509
 Encoding: 5385 5385 101
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -988,7 +889,6 @@ StartChar: uni150A
 Encoding: 5386 5386 102
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -997,7 +897,6 @@ StartChar: uni150B
 Encoding: 5387 5387 103
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1006,7 +905,6 @@ StartChar: uni150C
 Encoding: 5388 5388 104
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1015,7 +913,6 @@ StartChar: uni150D
 Encoding: 5389 5389 105
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1024,7 +921,6 @@ StartChar: uni150E
 Encoding: 5390 5390 106
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1033,7 +929,6 @@ StartChar: uni150F
 Encoding: 5391 5391 107
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1042,7 +937,6 @@ StartChar: uni153F
 Encoding: 5439 5439 108
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1051,7 +945,6 @@ StartChar: uni1551
 Encoding: 5457 5457 109
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1060,7 +953,6 @@ StartChar: uni156B
 Encoding: 5483 5483 110
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1069,7 +961,6 @@ StartChar: uni156C
 Encoding: 5484 5484 111
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1078,7 +969,6 @@ StartChar: uni156D
 Encoding: 5485 5485 112
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1087,7 +977,6 @@ StartChar: uni156E
 Encoding: 5486 5486 113
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1096,7 +985,6 @@ StartChar: uni156F
 Encoding: 5487 5487 114
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1105,7 +993,6 @@ StartChar: uni1570
 Encoding: 5488 5488 115
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1114,7 +1001,6 @@ StartChar: uni1571
 Encoding: 5489 5489 116
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1123,7 +1009,6 @@ StartChar: uni1572
 Encoding: 5490 5490 117
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1132,7 +1017,6 @@ StartChar: uni1573
 Encoding: 5491 5491 118
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1141,7 +1025,6 @@ StartChar: uni1586
 Encoding: 5510 5510 119
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1150,7 +1033,6 @@ StartChar: uni1587
 Encoding: 5511 5511 120
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1159,7 +1041,6 @@ StartChar: uni1588
 Encoding: 5512 5512 121
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1168,7 +1049,6 @@ StartChar: uni1589
 Encoding: 5513 5513 122
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1177,7 +1057,6 @@ StartChar: uni1597
 Encoding: 5527 5527 123
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1186,7 +1065,6 @@ StartChar: uni1598
 Encoding: 5528 5528 124
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1195,7 +1073,6 @@ StartChar: uni1599
 Encoding: 5529 5529 125
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1204,7 +1081,6 @@ StartChar: uni159A
 Encoding: 5530 5530 126
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1213,7 +1089,6 @@ StartChar: uni159B
 Encoding: 5531 5531 127
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1222,7 +1097,6 @@ StartChar: uni159C
 Encoding: 5532 5532 128
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1231,7 +1105,6 @@ StartChar: uni159D
 Encoding: 5533 5533 129
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1240,7 +1113,6 @@ StartChar: uni159E
 Encoding: 5534 5534 130
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1249,7 +1121,6 @@ StartChar: uni159F
 Encoding: 5535 5535 131
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1258,7 +1129,6 @@ StartChar: uni15B0
 Encoding: 5552 5552 132
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1267,7 +1137,6 @@ StartChar: uni15B1
 Encoding: 5553 5553 133
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1276,7 +1145,6 @@ StartChar: uni15B2
 Encoding: 5554 5554 134
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1285,7 +1153,6 @@ StartChar: uni15B3
 Encoding: 5555 5555 135
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1294,7 +1161,6 @@ StartChar: uni15B4
 Encoding: 5556 5556 136
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1303,7 +1169,6 @@ StartChar: uni15B5
 Encoding: 5557 5557 137
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1312,7 +1177,6 @@ StartChar: uni15B6
 Encoding: 5558 5558 138
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1321,7 +1185,6 @@ StartChar: uni15B7
 Encoding: 5559 5559 139
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1330,7 +1193,6 @@ StartChar: uni15B8
 Encoding: 5560 5560 140
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1339,7 +1201,6 @@ StartChar: uni15B9
 Encoding: 5561 5561 141
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1348,7 +1209,6 @@ StartChar: uni15BA
 Encoding: 5562 5562 142
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1357,7 +1217,6 @@ StartChar: uni15BB
 Encoding: 5563 5563 143
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1366,7 +1225,6 @@ StartChar: uni15BC
 Encoding: 5564 5564 144
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1375,7 +1233,6 @@ StartChar: uni15BD
 Encoding: 5565 5565 145
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1384,7 +1241,6 @@ StartChar: uni15BE
 Encoding: 5566 5566 146
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1393,7 +1249,6 @@ StartChar: uni15BF
 Encoding: 5567 5567 147
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1402,7 +1257,6 @@ StartChar: uni15C0
 Encoding: 5568 5568 148
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1411,7 +1265,6 @@ StartChar: uni15C1
 Encoding: 5569 5569 149
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1420,7 +1273,6 @@ StartChar: uni15C2
 Encoding: 5570 5570 150
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1429,7 +1281,6 @@ StartChar: uni15C3
 Encoding: 5571 5571 151
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1438,7 +1289,6 @@ StartChar: uni15C4
 Encoding: 5572 5572 152
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1447,7 +1297,6 @@ StartChar: uni15C5
 Encoding: 5573 5573 153
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1456,7 +1305,6 @@ StartChar: uni15C6
 Encoding: 5574 5574 154
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1465,7 +1313,6 @@ StartChar: uni15C7
 Encoding: 5575 5575 155
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1474,7 +1321,6 @@ StartChar: uni15C8
 Encoding: 5576 5576 156
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1483,7 +1329,6 @@ StartChar: uni15C9
 Encoding: 5577 5577 157
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1492,7 +1337,6 @@ StartChar: uni15CA
 Encoding: 5578 5578 158
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1501,7 +1345,6 @@ StartChar: uni15CB
 Encoding: 5579 5579 159
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1510,7 +1353,6 @@ StartChar: uni15CC
 Encoding: 5580 5580 160
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1519,7 +1361,6 @@ StartChar: uni15CD
 Encoding: 5581 5581 161
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1528,7 +1369,6 @@ StartChar: uni15CE
 Encoding: 5582 5582 162
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1537,7 +1377,6 @@ StartChar: uni15CF
 Encoding: 5583 5583 163
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1546,7 +1385,6 @@ StartChar: uni15D0
 Encoding: 5584 5584 164
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1555,7 +1393,6 @@ StartChar: uni15D1
 Encoding: 5585 5585 165
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1564,7 +1401,6 @@ StartChar: uni15D2
 Encoding: 5586 5586 166
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1573,7 +1409,6 @@ StartChar: uni15D3
 Encoding: 5587 5587 167
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1582,7 +1417,6 @@ StartChar: uni15D4
 Encoding: 5588 5588 168
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1591,7 +1425,6 @@ StartChar: uni15D5
 Encoding: 5589 5589 169
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1600,7 +1433,6 @@ StartChar: uni15D6
 Encoding: 5590 5590 170
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1609,7 +1441,6 @@ StartChar: uni15D7
 Encoding: 5591 5591 171
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1618,7 +1449,6 @@ StartChar: uni15D8
 Encoding: 5592 5592 172
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1627,7 +1457,6 @@ StartChar: uni15D9
 Encoding: 5593 5593 173
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1636,7 +1465,6 @@ StartChar: uni15DA
 Encoding: 5594 5594 174
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1645,7 +1473,6 @@ StartChar: uni15DB
 Encoding: 5595 5595 175
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1654,7 +1481,6 @@ StartChar: uni15DC
 Encoding: 5596 5596 176
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1663,7 +1489,6 @@ StartChar: uni15DD
 Encoding: 5597 5597 177
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1672,7 +1497,6 @@ StartChar: uni15DF
 Encoding: 5599 5599 178
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1681,7 +1505,6 @@ StartChar: uni15E0
 Encoding: 5600 5600 179
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1690,7 +1513,6 @@ StartChar: uni15E2
 Encoding: 5602 5602 180
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1699,7 +1521,6 @@ StartChar: uni15E3
 Encoding: 5603 5603 181
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1708,7 +1529,6 @@ StartChar: uni15E4
 Encoding: 5604 5604 182
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1717,7 +1537,6 @@ StartChar: uni15E5
 Encoding: 5605 5605 183
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1726,7 +1545,6 @@ StartChar: uni15E6
 Encoding: 5606 5606 184
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1735,7 +1553,6 @@ StartChar: uni15E7
 Encoding: 5607 5607 185
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1744,7 +1561,6 @@ StartChar: uni15E8
 Encoding: 5608 5608 186
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1753,7 +1569,6 @@ StartChar: uni15E9
 Encoding: 5609 5609 187
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1762,7 +1577,6 @@ StartChar: uni15EA
 Encoding: 5610 5610 188
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1771,7 +1585,6 @@ StartChar: uni15EB
 Encoding: 5611 5611 189
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1780,7 +1593,6 @@ StartChar: uni15EC
 Encoding: 5612 5612 190
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1789,7 +1601,6 @@ StartChar: uni15ED
 Encoding: 5613 5613 191
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1798,7 +1609,6 @@ StartChar: uni15EE
 Encoding: 5614 5614 192
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1807,7 +1617,6 @@ StartChar: uni15EF
 Encoding: 5615 5615 193
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1816,7 +1625,6 @@ StartChar: uni15F0
 Encoding: 5616 5616 194
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1825,7 +1633,6 @@ StartChar: uni15F1
 Encoding: 5617 5617 195
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1834,7 +1641,6 @@ StartChar: uni15F2
 Encoding: 5618 5618 196
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1843,7 +1649,6 @@ StartChar: uni15F3
 Encoding: 5619 5619 197
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1852,7 +1657,6 @@ StartChar: uni15F4
 Encoding: 5620 5620 198
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1861,7 +1665,6 @@ StartChar: uni15F5
 Encoding: 5621 5621 199
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1870,7 +1673,6 @@ StartChar: uni15F6
 Encoding: 5622 5622 200
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1879,7 +1681,6 @@ StartChar: uni15F7
 Encoding: 5623 5623 201
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1888,7 +1689,6 @@ StartChar: uni15F8
 Encoding: 5624 5624 202
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1897,7 +1697,6 @@ StartChar: uni15F9
 Encoding: 5625 5625 203
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1906,7 +1705,6 @@ StartChar: uni15FA
 Encoding: 5626 5626 204
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1915,7 +1713,6 @@ StartChar: uni15FB
 Encoding: 5627 5627 205
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1924,7 +1721,6 @@ StartChar: uni15FC
 Encoding: 5628 5628 206
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1933,7 +1729,6 @@ StartChar: uni15FD
 Encoding: 5629 5629 207
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1942,7 +1737,6 @@ StartChar: uni15FE
 Encoding: 5630 5630 208
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1951,7 +1745,6 @@ StartChar: uni15FF
 Encoding: 5631 5631 209
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1960,7 +1753,6 @@ StartChar: uni1600
 Encoding: 5632 5632 210
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1969,7 +1761,6 @@ StartChar: uni1601
 Encoding: 5633 5633 211
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1978,7 +1769,6 @@ StartChar: uni1602
 Encoding: 5634 5634 212
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1987,7 +1777,6 @@ StartChar: uni1603
 Encoding: 5635 5635 213
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -1996,7 +1785,6 @@ StartChar: uni1604
 Encoding: 5636 5636 214
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2005,7 +1793,6 @@ StartChar: uni1605
 Encoding: 5637 5637 215
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2014,7 +1801,6 @@ StartChar: uni1606
 Encoding: 5638 5638 216
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2023,7 +1809,6 @@ StartChar: uni1607
 Encoding: 5639 5639 217
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2032,7 +1817,6 @@ StartChar: uni1608
 Encoding: 5640 5640 218
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2041,7 +1825,6 @@ StartChar: uni1609
 Encoding: 5641 5641 219
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2050,7 +1833,6 @@ StartChar: uni160A
 Encoding: 5642 5642 220
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2059,7 +1841,6 @@ StartChar: uni160B
 Encoding: 5643 5643 221
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2068,7 +1849,6 @@ StartChar: uni160C
 Encoding: 5644 5644 222
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2077,7 +1857,6 @@ StartChar: uni160D
 Encoding: 5645 5645 223
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2086,7 +1865,6 @@ StartChar: uni160E
 Encoding: 5646 5646 224
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2095,7 +1873,6 @@ StartChar: uni160F
 Encoding: 5647 5647 225
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2104,7 +1881,6 @@ StartChar: uni1610
 Encoding: 5648 5648 226
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2113,7 +1889,6 @@ StartChar: uni1611
 Encoding: 5649 5649 227
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2122,7 +1897,6 @@ StartChar: uni1612
 Encoding: 5650 5650 228
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2131,7 +1905,6 @@ StartChar: uni1613
 Encoding: 5651 5651 229
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2140,7 +1913,6 @@ StartChar: uni1614
 Encoding: 5652 5652 230
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2149,7 +1921,6 @@ StartChar: uni1615
 Encoding: 5653 5653 231
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2158,7 +1929,6 @@ StartChar: uni1616
 Encoding: 5654 5654 232
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2167,7 +1937,6 @@ StartChar: uni1617
 Encoding: 5655 5655 233
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2176,7 +1945,6 @@ StartChar: uni1618
 Encoding: 5656 5656 234
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2185,7 +1953,6 @@ StartChar: uni1619
 Encoding: 5657 5657 235
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2194,7 +1961,6 @@ StartChar: uni161A
 Encoding: 5658 5658 236
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2203,7 +1969,6 @@ StartChar: uni161B
 Encoding: 5659 5659 237
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2212,7 +1977,6 @@ StartChar: uni161C
 Encoding: 5660 5660 238
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2221,7 +1985,6 @@ StartChar: uni161D
 Encoding: 5661 5661 239
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2230,7 +1993,6 @@ StartChar: uni161E
 Encoding: 5662 5662 240
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2239,7 +2001,6 @@ StartChar: uni161F
 Encoding: 5663 5663 241
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2248,7 +2009,6 @@ StartChar: uni1620
 Encoding: 5664 5664 242
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2257,7 +2017,6 @@ StartChar: uni1621
 Encoding: 5665 5665 243
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2266,7 +2025,6 @@ StartChar: uni1622
 Encoding: 5666 5666 244
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2275,7 +2033,6 @@ StartChar: uni1623
 Encoding: 5667 5667 245
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2284,7 +2041,6 @@ StartChar: uni1624
 Encoding: 5668 5668 246
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2293,7 +2049,6 @@ StartChar: uni1625
 Encoding: 5669 5669 247
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2302,7 +2057,6 @@ StartChar: uni1626
 Encoding: 5670 5670 248
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2311,7 +2065,6 @@ StartChar: uni1627
 Encoding: 5671 5671 249
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2320,7 +2073,6 @@ StartChar: uni1628
 Encoding: 5672 5672 250
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2329,7 +2081,6 @@ StartChar: uni1629
 Encoding: 5673 5673 251
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2338,7 +2089,6 @@ StartChar: uni162A
 Encoding: 5674 5674 252
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2347,7 +2097,6 @@ StartChar: uni162B
 Encoding: 5675 5675 253
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2356,7 +2105,6 @@ StartChar: uni162C
 Encoding: 5676 5676 254
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2365,7 +2113,6 @@ StartChar: uni162D
 Encoding: 5677 5677 255
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2374,7 +2121,6 @@ StartChar: uni162E
 Encoding: 5678 5678 256
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2383,7 +2129,6 @@ StartChar: uni162F
 Encoding: 5679 5679 257
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2392,7 +2137,6 @@ StartChar: uni1630
 Encoding: 5680 5680 258
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2401,7 +2145,6 @@ StartChar: uni1631
 Encoding: 5681 5681 259
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2410,7 +2153,6 @@ StartChar: uni1632
 Encoding: 5682 5682 260
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2419,7 +2161,6 @@ StartChar: uni1633
 Encoding: 5683 5683 261
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2428,7 +2169,6 @@ StartChar: uni1634
 Encoding: 5684 5684 262
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2437,7 +2177,6 @@ StartChar: uni1635
 Encoding: 5685 5685 263
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2446,7 +2185,6 @@ StartChar: uni1636
 Encoding: 5686 5686 264
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2455,7 +2193,6 @@ StartChar: uni1637
 Encoding: 5687 5687 265
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2464,7 +2201,6 @@ StartChar: uni1638
 Encoding: 5688 5688 266
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2473,7 +2209,6 @@ StartChar: uni1639
 Encoding: 5689 5689 267
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2482,7 +2217,6 @@ StartChar: uni163A
 Encoding: 5690 5690 268
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2491,7 +2225,6 @@ StartChar: uni163B
 Encoding: 5691 5691 269
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2500,7 +2233,6 @@ StartChar: uni163C
 Encoding: 5692 5692 270
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2509,7 +2241,6 @@ StartChar: uni163D
 Encoding: 5693 5693 271
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2518,7 +2249,6 @@ StartChar: uni163E
 Encoding: 5694 5694 272
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2527,7 +2257,6 @@ StartChar: uni163F
 Encoding: 5695 5695 273
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2536,7 +2265,6 @@ StartChar: uni1640
 Encoding: 5696 5696 274
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2545,7 +2273,6 @@ StartChar: uni1641
 Encoding: 5697 5697 275
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2554,7 +2281,6 @@ StartChar: uni1642
 Encoding: 5698 5698 276
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2563,7 +2289,6 @@ StartChar: uni1643
 Encoding: 5699 5699 277
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2572,7 +2297,6 @@ StartChar: uni1644
 Encoding: 5700 5700 278
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2581,7 +2305,6 @@ StartChar: uni1645
 Encoding: 5701 5701 279
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2590,7 +2313,6 @@ StartChar: uni1648
 Encoding: 5704 5704 280
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2599,7 +2321,6 @@ StartChar: uni1649
 Encoding: 5705 5705 281
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2608,7 +2329,6 @@ StartChar: uni164A
 Encoding: 5706 5706 282
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2617,7 +2337,6 @@ StartChar: uni164B
 Encoding: 5707 5707 283
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2626,7 +2345,6 @@ StartChar: uni164C
 Encoding: 5708 5708 284
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2635,7 +2353,6 @@ StartChar: uni164D
 Encoding: 5709 5709 285
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2644,7 +2361,6 @@ StartChar: uni164E
 Encoding: 5710 5710 286
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2653,7 +2369,6 @@ StartChar: uni164F
 Encoding: 5711 5711 287
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2662,7 +2377,6 @@ StartChar: uni1650
 Encoding: 5712 5712 288
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2671,7 +2385,6 @@ StartChar: uni1651
 Encoding: 5713 5713 289
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2680,7 +2393,6 @@ StartChar: uni1652
 Encoding: 5714 5714 290
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2689,7 +2401,6 @@ StartChar: uni1653
 Encoding: 5715 5715 291
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2698,7 +2409,6 @@ StartChar: uni1654
 Encoding: 5716 5716 292
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2707,7 +2417,6 @@ StartChar: uni1655
 Encoding: 5717 5717 293
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2716,7 +2425,6 @@ StartChar: uni1656
 Encoding: 5718 5718 294
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2725,7 +2433,6 @@ StartChar: uni1657
 Encoding: 5719 5719 295
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2734,7 +2441,6 @@ StartChar: uni1658
 Encoding: 5720 5720 296
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2743,7 +2449,6 @@ StartChar: uni1659
 Encoding: 5721 5721 297
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2752,7 +2457,6 @@ StartChar: uni165A
 Encoding: 5722 5722 298
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2761,7 +2465,6 @@ StartChar: uni165B
 Encoding: 5723 5723 299
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2770,7 +2473,6 @@ StartChar: uni165C
 Encoding: 5724 5724 300
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2779,7 +2481,6 @@ StartChar: uni165D
 Encoding: 5725 5725 301
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2788,7 +2489,6 @@ StartChar: uni165E
 Encoding: 5726 5726 302
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2797,7 +2497,6 @@ StartChar: uni165F
 Encoding: 5727 5727 303
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2806,7 +2505,6 @@ StartChar: uni1660
 Encoding: 5728 5728 304
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2815,7 +2513,6 @@ StartChar: uni1661
 Encoding: 5729 5729 305
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2824,7 +2521,6 @@ StartChar: uni1662
 Encoding: 5730 5730 306
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2833,7 +2529,6 @@ StartChar: uni1663
 Encoding: 5731 5731 307
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2842,7 +2537,6 @@ StartChar: uni1664
 Encoding: 5732 5732 308
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2851,7 +2545,6 @@ StartChar: uni1665
 Encoding: 5733 5733 309
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2860,7 +2553,6 @@ StartChar: uni1666
 Encoding: 5734 5734 310
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2869,7 +2561,6 @@ StartChar: uni1667
 Encoding: 5735 5735 311
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2878,7 +2569,6 @@ StartChar: uni1668
 Encoding: 5736 5736 312
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2887,7 +2577,6 @@ StartChar: uni1669
 Encoding: 5737 5737 313
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2896,7 +2585,6 @@ StartChar: uni166A
 Encoding: 5738 5738 314
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2905,7 +2593,6 @@ StartChar: uni166B
 Encoding: 5739 5739 315
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2914,7 +2601,6 @@ StartChar: uni166C
 Encoding: 5740 5740 316
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2923,7 +2609,6 @@ StartChar: uni166D
 Encoding: 5741 5741 317
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2932,7 +2617,6 @@ StartChar: uni16A0
 Encoding: 5792 5792 318
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2941,7 +2625,6 @@ StartChar: uni16A1
 Encoding: 5793 5793 319
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2950,7 +2633,6 @@ StartChar: uni16A2
 Encoding: 5794 5794 320
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2959,7 +2641,6 @@ StartChar: uni16A3
 Encoding: 5795 5795 321
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2968,7 +2649,6 @@ StartChar: uni16A4
 Encoding: 5796 5796 322
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2977,7 +2657,6 @@ StartChar: uni16A5
 Encoding: 5797 5797 323
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2986,7 +2665,6 @@ StartChar: uni16A6
 Encoding: 5798 5798 324
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -2995,7 +2673,6 @@ StartChar: uni16A7
 Encoding: 5799 5799 325
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3004,7 +2681,6 @@ StartChar: uni16A8
 Encoding: 5800 5800 326
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3013,7 +2689,6 @@ StartChar: uni16A9
 Encoding: 5801 5801 327
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3022,7 +2697,6 @@ StartChar: uni16AA
 Encoding: 5802 5802 328
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3031,7 +2705,6 @@ StartChar: uni16AB
 Encoding: 5803 5803 329
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3040,7 +2713,6 @@ StartChar: uni16AC
 Encoding: 5804 5804 330
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3049,7 +2721,6 @@ StartChar: uni16AD
 Encoding: 5805 5805 331
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3058,7 +2729,6 @@ StartChar: uni16AE
 Encoding: 5806 5806 332
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3067,7 +2737,6 @@ StartChar: uni16AF
 Encoding: 5807 5807 333
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3076,7 +2745,6 @@ StartChar: uni16B0
 Encoding: 5808 5808 334
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3085,7 +2753,6 @@ StartChar: uni16B1
 Encoding: 5809 5809 335
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3094,7 +2761,6 @@ StartChar: uni16B2
 Encoding: 5810 5810 336
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3103,7 +2769,6 @@ StartChar: uni16B3
 Encoding: 5811 5811 337
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3112,7 +2777,6 @@ StartChar: uni16B4
 Encoding: 5812 5812 338
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3121,7 +2785,6 @@ StartChar: uni16B5
 Encoding: 5813 5813 339
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3130,7 +2793,6 @@ StartChar: uni16B6
 Encoding: 5814 5814 340
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3139,7 +2801,6 @@ StartChar: uni16B7
 Encoding: 5815 5815 341
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3148,7 +2809,6 @@ StartChar: uni16B8
 Encoding: 5816 5816 342
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3157,7 +2817,6 @@ StartChar: uni16B9
 Encoding: 5817 5817 343
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3166,7 +2825,6 @@ StartChar: uni16BA
 Encoding: 5818 5818 344
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3175,7 +2833,6 @@ StartChar: uni16BB
 Encoding: 5819 5819 345
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3184,7 +2841,6 @@ StartChar: uni16BC
 Encoding: 5820 5820 346
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3193,7 +2849,6 @@ StartChar: uni16BD
 Encoding: 5821 5821 347
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3202,7 +2857,6 @@ StartChar: uni16BE
 Encoding: 5822 5822 348
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3211,7 +2865,6 @@ StartChar: uni16BF
 Encoding: 5823 5823 349
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3220,7 +2873,6 @@ StartChar: uni16C0
 Encoding: 5824 5824 350
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3229,7 +2881,6 @@ StartChar: uni16C1
 Encoding: 5825 5825 351
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3238,7 +2889,6 @@ StartChar: uni16C2
 Encoding: 5826 5826 352
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3247,7 +2897,6 @@ StartChar: uni16C3
 Encoding: 5827 5827 353
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3256,7 +2905,6 @@ StartChar: uni16C4
 Encoding: 5828 5828 354
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3265,7 +2913,6 @@ StartChar: uni16C5
 Encoding: 5829 5829 355
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3274,7 +2921,6 @@ StartChar: uni16C6
 Encoding: 5830 5830 356
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3283,7 +2929,6 @@ StartChar: uni16C7
 Encoding: 5831 5831 357
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3292,7 +2937,6 @@ StartChar: uni16C8
 Encoding: 5832 5832 358
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3301,7 +2945,6 @@ StartChar: uni16C9
 Encoding: 5833 5833 359
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3310,7 +2953,6 @@ StartChar: uni16CA
 Encoding: 5834 5834 360
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3319,7 +2961,6 @@ StartChar: uni16CB
 Encoding: 5835 5835 361
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3328,7 +2969,6 @@ StartChar: uni16CC
 Encoding: 5836 5836 362
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3337,7 +2977,6 @@ StartChar: uni16CD
 Encoding: 5837 5837 363
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3346,7 +2985,6 @@ StartChar: uni16CE
 Encoding: 5838 5838 364
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3355,7 +2993,6 @@ StartChar: uni16CF
 Encoding: 5839 5839 365
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3364,7 +3001,6 @@ StartChar: uni16D0
 Encoding: 5840 5840 366
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3373,7 +3009,6 @@ StartChar: uni16D1
 Encoding: 5841 5841 367
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3382,7 +3017,6 @@ StartChar: uni16D2
 Encoding: 5842 5842 368
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3391,7 +3025,6 @@ StartChar: uni16D3
 Encoding: 5843 5843 369
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3400,7 +3033,6 @@ StartChar: uni16D4
 Encoding: 5844 5844 370
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3409,7 +3041,6 @@ StartChar: uni16D5
 Encoding: 5845 5845 371
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3418,7 +3049,6 @@ StartChar: uni16D6
 Encoding: 5846 5846 372
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3427,7 +3057,6 @@ StartChar: uni16D7
 Encoding: 5847 5847 373
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3436,7 +3065,6 @@ StartChar: uni16D8
 Encoding: 5848 5848 374
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3445,7 +3073,6 @@ StartChar: uni16D9
 Encoding: 5849 5849 375
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3454,7 +3081,6 @@ StartChar: uni16DA
 Encoding: 5850 5850 376
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3463,7 +3089,6 @@ StartChar: uni16DB
 Encoding: 5851 5851 377
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3472,7 +3097,6 @@ StartChar: uni16DC
 Encoding: 5852 5852 378
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3481,7 +3105,6 @@ StartChar: uni16DD
 Encoding: 5853 5853 379
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3490,7 +3113,6 @@ StartChar: uni16DE
 Encoding: 5854 5854 380
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3499,7 +3121,6 @@ StartChar: uni16DF
 Encoding: 5855 5855 381
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3508,7 +3129,6 @@ StartChar: uni16E0
 Encoding: 5856 5856 382
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3517,7 +3137,6 @@ StartChar: uni16E1
 Encoding: 5857 5857 383
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3526,7 +3145,6 @@ StartChar: uni16E2
 Encoding: 5858 5858 384
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3535,7 +3153,6 @@ StartChar: uni16E3
 Encoding: 5859 5859 385
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3544,7 +3161,6 @@ StartChar: uni16E4
 Encoding: 5860 5860 386
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3553,7 +3169,6 @@ StartChar: uni16E5
 Encoding: 5861 5861 387
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3562,7 +3177,6 @@ StartChar: uni16E6
 Encoding: 5862 5862 388
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3571,7 +3185,6 @@ StartChar: uni16E7
 Encoding: 5863 5863 389
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3580,7 +3193,6 @@ StartChar: uni16E8
 Encoding: 5864 5864 390
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3589,7 +3201,6 @@ StartChar: uni16E9
 Encoding: 5865 5865 391
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3598,7 +3209,6 @@ StartChar: uni16EA
 Encoding: 5866 5866 392
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3607,7 +3217,6 @@ StartChar: uni16EB
 Encoding: 5867 5867 393
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3616,7 +3225,6 @@ StartChar: uni16EC
 Encoding: 5868 5868 394
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3625,7 +3233,6 @@ StartChar: uni16ED
 Encoding: 5869 5869 395
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3634,7 +3241,6 @@ StartChar: uni16EE
 Encoding: 5870 5870 396
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3643,7 +3249,6 @@ StartChar: uni16EF
 Encoding: 5871 5871 397
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3652,7 +3257,6 @@ StartChar: uni16F0
 Encoding: 5872 5872 398
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ffff00
 EndChar
@@ -3683,6 +3287,7 @@ SplineSet
  115 237 152 148 224 92 c 1
  224 636 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: H
@@ -3718,6 +3323,7 @@ SplineSet
  98 0 l 1
  98 729 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: N
@@ -3746,6 +3352,7 @@ SplineSet
  97 0 l 1
  97 729 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: P
@@ -3782,6 +3389,7 @@ SplineSet
  612 597 576 648 516 669 c 1
  516 369 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Q
@@ -3822,6 +3430,7 @@ SplineSet
  672 483 634 576 564 634 c 1
  564 94 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: R
@@ -3873,6 +3482,7 @@ SplineSet
  245 680 l 1
  146 680 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Z
@@ -3900,6 +3510,7 @@ SplineSet
  56 680 l 1
  56 729 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: pi
@@ -3950,6 +3561,7 @@ SplineSet
  213 498 l 1
  213 49 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: gamma
@@ -3981,6 +3593,7 @@ SplineSet
  514 110 503 -26 503 -194 c 1
  342 -194 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Gamma
@@ -4005,6 +3618,7 @@ SplineSet
  98 729 l 1
  648 729 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Pi
@@ -4036,6 +3650,7 @@ SplineSet
  750 729 l 17
  750 0 l 9
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Sigma
@@ -4067,6 +3682,7 @@ SplineSet
  27 719 l 9
  778 719 l 17
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2145
@@ -4104,6 +3720,7 @@ SplineSet
  723 398 726 429 726 457 c 0
  726 532 702 587 658 622 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2146
@@ -4148,6 +3765,7 @@ SplineSet
  415 494 379 511 325 511 c 0
  317 511 308 511 300 510 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2147
@@ -4184,6 +3802,7 @@ SplineSet
  510 301 l 1
  513 319 515 337 515 353 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bracketleft
@@ -4210,6 +3829,7 @@ SplineSet
  86 -132 l 1
  86 760 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bracketright
@@ -4236,6 +3856,7 @@ SplineSet
  85 760 l 1
  398 760 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: braceleft
@@ -4281,6 +3902,7 @@ SplineSet
  125 334 l 1
  155 334 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: braceright
@@ -4326,13 +3948,13 @@ SplineSet
  243 -114 261 -94 261 -2 c 2
  261 599 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uniFF61
 Encoding: 65377 65377 418
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4341,7 +3963,6 @@ StartChar: uniFF62
 Encoding: 65378 65378 419
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4350,7 +3971,6 @@ StartChar: uniFF63
 Encoding: 65379 65379 420
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4359,7 +3979,6 @@ StartChar: uniFF64
 Encoding: 65380 65380 421
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4368,7 +3987,6 @@ StartChar: uniFF65
 Encoding: 65381 65381 422
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4377,7 +3995,6 @@ StartChar: uniFF66
 Encoding: 65382 65382 423
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4386,7 +4003,6 @@ StartChar: uniFF67
 Encoding: 65383 65383 424
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4395,7 +4011,6 @@ StartChar: uniFF68
 Encoding: 65384 65384 425
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4404,7 +4019,6 @@ StartChar: uniFF69
 Encoding: 65385 65385 426
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4413,7 +4027,6 @@ StartChar: uniFF6A
 Encoding: 65386 65386 427
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4422,7 +4035,6 @@ StartChar: uniFF6B
 Encoding: 65387 65387 428
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4431,7 +4043,6 @@ StartChar: uniFF6C
 Encoding: 65388 65388 429
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4440,7 +4051,6 @@ StartChar: uniFF6D
 Encoding: 65389 65389 430
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4449,7 +4059,6 @@ StartChar: uniFF6E
 Encoding: 65390 65390 431
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4458,7 +4067,6 @@ StartChar: uniFF6F
 Encoding: 65391 65391 432
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4467,7 +4075,6 @@ StartChar: uniFF70
 Encoding: 65392 65392 433
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4476,7 +4083,6 @@ StartChar: uniFF71
 Encoding: 65393 65393 434
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4485,7 +4091,6 @@ StartChar: uniFF72
 Encoding: 65394 65394 435
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4494,7 +4099,6 @@ StartChar: uniFF73
 Encoding: 65395 65395 436
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4503,7 +4107,6 @@ StartChar: uniFF74
 Encoding: 65396 65396 437
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4512,7 +4115,6 @@ StartChar: uniFF75
 Encoding: 65397 65397 438
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4521,7 +4123,6 @@ StartChar: uniFF76
 Encoding: 65398 65398 439
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4530,7 +4131,6 @@ StartChar: uniFF77
 Encoding: 65399 65399 440
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4539,7 +4139,6 @@ StartChar: uniFF78
 Encoding: 65400 65400 441
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4548,7 +4147,6 @@ StartChar: uniFF79
 Encoding: 65401 65401 442
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4557,7 +4155,6 @@ StartChar: uniFF7A
 Encoding: 65402 65402 443
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4566,7 +4163,6 @@ StartChar: uniFF7B
 Encoding: 65403 65403 444
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4575,7 +4171,6 @@ StartChar: uniFF7C
 Encoding: 65404 65404 445
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4584,7 +4179,6 @@ StartChar: uniFF7D
 Encoding: 65405 65405 446
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4593,7 +4187,6 @@ StartChar: uniFF7E
 Encoding: 65406 65406 447
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4602,7 +4195,6 @@ StartChar: uniFF7F
 Encoding: 65407 65407 448
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4611,7 +4203,6 @@ StartChar: uniFF80
 Encoding: 65408 65408 449
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4620,7 +4211,6 @@ StartChar: uniFF81
 Encoding: 65409 65409 450
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4629,7 +4219,6 @@ StartChar: uniFF82
 Encoding: 65410 65410 451
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4638,7 +4227,6 @@ StartChar: uniFF83
 Encoding: 65411 65411 452
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4647,7 +4235,6 @@ StartChar: uniFF84
 Encoding: 65412 65412 453
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4656,7 +4243,6 @@ StartChar: uniFF85
 Encoding: 65413 65413 454
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4665,7 +4251,6 @@ StartChar: uniFF86
 Encoding: 65414 65414 455
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4674,7 +4259,6 @@ StartChar: uniFF87
 Encoding: 65415 65415 456
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4683,7 +4267,6 @@ StartChar: uniFF88
 Encoding: 65416 65416 457
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4692,7 +4275,6 @@ StartChar: uniFF89
 Encoding: 65417 65417 458
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4701,7 +4283,6 @@ StartChar: uniFF8A
 Encoding: 65418 65418 459
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4710,7 +4291,6 @@ StartChar: uniFF8B
 Encoding: 65419 65419 460
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4719,7 +4299,6 @@ StartChar: uniFF8C
 Encoding: 65420 65420 461
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4728,7 +4307,6 @@ StartChar: uniFF8D
 Encoding: 65421 65421 462
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4737,7 +4315,6 @@ StartChar: uniFF8E
 Encoding: 65422 65422 463
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4746,7 +4323,6 @@ StartChar: uniFF8F
 Encoding: 65423 65423 464
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4755,7 +4331,6 @@ StartChar: uniFF90
 Encoding: 65424 65424 465
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4764,7 +4339,6 @@ StartChar: uniFF91
 Encoding: 65425 65425 466
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4773,7 +4347,6 @@ StartChar: uniFF92
 Encoding: 65426 65426 467
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4782,7 +4355,6 @@ StartChar: uniFF93
 Encoding: 65427 65427 468
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4791,7 +4363,6 @@ StartChar: uniFF94
 Encoding: 65428 65428 469
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4800,7 +4371,6 @@ StartChar: uniFF95
 Encoding: 65429 65429 470
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4809,7 +4379,6 @@ StartChar: uniFF96
 Encoding: 65430 65430 471
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4818,7 +4387,6 @@ StartChar: uniFF97
 Encoding: 65431 65431 472
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4827,7 +4395,6 @@ StartChar: uniFF98
 Encoding: 65432 65432 473
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4836,7 +4403,6 @@ StartChar: uniFF99
 Encoding: 65433 65433 474
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4845,7 +4411,6 @@ StartChar: uniFF9A
 Encoding: 65434 65434 475
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4854,7 +4419,6 @@ StartChar: uniFF9B
 Encoding: 65435 65435 476
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4863,7 +4427,6 @@ StartChar: uniFF9C
 Encoding: 65436 65436 477
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4872,7 +4435,6 @@ StartChar: uniFF9D
 Encoding: 65437 65437 478
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4881,7 +4443,6 @@ StartChar: uniFF9E
 Encoding: 65438 65438 479
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4890,7 +4451,6 @@ StartChar: uniFF9F
 Encoding: 65439 65439 480
 Width: 2048
 VWidth: 2048
-Flags: H
 LayerCount: 2
 Colour: ff00
 EndChar
@@ -4922,6 +4482,7 @@ SplineSet
  436 252 l 1
  297 632 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: B
@@ -4969,6 +4530,7 @@ SplineSet
  584 613 550 653 482 671 c 1
  482 422 l 1xfd
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: D
@@ -5003,6 +4565,7 @@ SplineSet
  716 485 680 571 607 622 c 1
  607 107 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: E
@@ -5033,6 +4596,7 @@ SplineSet
  98 0 l 1
  98 729 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: F
@@ -5061,12 +4625,13 @@ SplineSet
  246 49 l 1
  246 680 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: G
 Encoding: 71 71 486
 Width: 774
-Flags: W
+Flags: HW
 HStem: -14 21G<304.5 477> 332 49<434 644> 693 49<287.936 561.25>
 VStem: 56 49<223.37 505.038> 214 49<96 632> 644 49<81.8281 332>
 LayerCount: 2
@@ -5078,7 +4643,8 @@ SplineSet
  604 664 529 693 420 693 c 0
  359 693 307 683 263 662 c 1
  263 66 l 1
- 341 29 462 26 553 53 c 0
+ 306.894 45.1784 364.406 35.124 422.525 35.124 c 0
+ 467.684 35.124 513.21 41.1941 553 53 c 0
  586 63 616 77 644 94 c 1
  644 332 l 1
  434 332 l 1
@@ -5093,6 +4659,7 @@ SplineSet
  105 242 143 152 214 96 c 1
  214 632 l 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: I
@@ -5123,6 +4690,7 @@ SplineSet
  50 680 l 1
  50 729 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: J
@@ -5151,6 +4719,7 @@ SplineSet
  -52 -151 l 1
  -21 -151 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: K
@@ -5180,6 +4749,7 @@ SplineSet
  246 680 l 1
  147 680 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: L
@@ -5204,6 +4774,7 @@ SplineSet
  246 679 l 1
  147 679 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: M
@@ -5240,6 +4811,7 @@ SplineSet
  243 680 l 1
  145 680 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: O
@@ -5275,6 +4847,7 @@ SplineSet
  564 94 l 1
 56 364 m 24
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: S
@@ -5319,6 +4892,7 @@ SplineSet
  188 324 141 348 111 382 c 0
  81 416 66 465 66 529 c 24
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: T
@@ -5345,6 +4919,7 @@ SplineSet
  -3 680 l 1
  -3 729 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: U
@@ -5382,6 +4957,7 @@ SplineSet
  744 274 l 2
  744 74 621 -14 415 -14 c 24
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: V
@@ -5406,6 +4982,7 @@ SplineSet
  286 0 l 1
  8 729 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: W
@@ -5441,6 +5018,7 @@ SplineSet
  216 0 l 1
  33 729 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: X
@@ -5470,6 +5048,7 @@ SplineSet
  331 310 l 1
  53 729 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Y
@@ -5499,6 +5078,7 @@ SplineSet
  403 49 l 1
  403 347 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: a
@@ -5545,6 +5125,7 @@ SplineSet
  120 235 109 204 109 159 c 0
  109 87 150 48 208 38 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: b
@@ -5586,6 +5167,7 @@ SplineSet
  416 35 425 35 433 36 c 1
  433 510 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: c
@@ -5614,6 +5196,7 @@ SplineSet
  104 176 139 103 203 65 c 1
  203 480 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: d
@@ -5655,6 +5238,7 @@ SplineSet
  392 494 352 511 298 511 c 0
  290 511 281 511 273 510 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: e
@@ -5687,6 +5271,7 @@ SplineSet
  254 301 l 1
  505 301 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: f
@@ -5722,12 +5307,13 @@ SplineSet
  109 536 l 1
  109 585 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: g
 Encoding: 103 103 506
 Width: 708
-Flags: W
+Flags: HW
 HStem: -208 49<164.434 375.035> -14 49<257.647 367.712> 497 49<503 568> 511 49<257.647 362.062>
 VStem: 55 53<143.27 401.124> 205 51<53 493> 454 49<-78.0082 82 144.68 405.041 464 497> 568 49<-55.7031 497>
 LayerCount: 2
@@ -5736,7 +5322,8 @@ SplineSet
 503 497 m 1xef
  503 27 l 2
  503 -39 486 -94 451 -140 c 1
- 453 -142 473 -130 511 -104 c 0
+ 451.143 -140.143 451.378 -140.214 451.704 -140.214 c 0
+ 455.949 -140.214 475.714 -128.143 511 -104 c 0
  549 -78 568 -21 568 68 c 2
  568 497 l 1
  503 497 l 1xef
@@ -5769,6 +5356,7 @@ SplineSet
  273 511 264 511 256 510 c 1
  256 36 l 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: h
@@ -5805,6 +5393,7 @@ SplineSet
  494 0 l 1
  494 352 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: i
@@ -5832,6 +5421,7 @@ SplineSet
  112 0 l 1
  112 547 l 1xf4
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: j
@@ -5865,6 +5455,7 @@ SplineSet
  129 646 l 1
  129 760 l 1xe8
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: k
@@ -5894,6 +5485,7 @@ SplineSet
  206 711 l 1
  140 711 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: l
@@ -5921,6 +5513,7 @@ SplineSet
  364 0 l 9
  281 0 l 18
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: m
@@ -5971,6 +5564,7 @@ SplineSet
  1017 330 l 2
  1017 430 986 490 906 506 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: n
@@ -6007,6 +5601,7 @@ SplineSet
  494 0 l 1
  494 352 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: o
@@ -6039,6 +5634,7 @@ SplineSet
  508 376 476 450 409 487 c 1
  409 59 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: p
@@ -6080,6 +5676,7 @@ SplineSet
  298 52 337 35 391 35 c 0
  399 35 408 35 416 36 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: q
@@ -6121,6 +5718,7 @@ SplineSet
  273 511 264 511 256 510 c 1
  256 36 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: r
@@ -6150,6 +5748,7 @@ SplineSet
  484 490 l 1
  465 501 442 507 412 507 c 0xb8
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: s
@@ -6198,19 +5797,21 @@ SplineSet
  461 243 472 207 472 160 c 0
  472 42 371 -14 246 -14 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: t
 Encoding: 116 116 519
 Width: 465
-Flags: W
+Flags: HW
 HStem: 0 49<272.5 441> 487 49<27 93 256 441> 653 49<142 208>
 VStem: 27 115<487 536> 93 49<77.1021 487 536 653> 208 48<65.5645 487 536 653>
 LayerCount: 2
 Fore
 SplineSet
 227 52 m 1xec
- 213 80 207 114 208 154 c 1
+ 213.995 78.0101 207.893 109.198 207.893 145.563 c 0
+ 207.893 148.345 207.929 151.157 208 154 c 1
  208 653 l 1
  142 653 l 1
  142 180 l 2
@@ -6234,6 +5835,7 @@ SplineSet
  441 0 l 1
  276 0 l 2
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: u
@@ -6270,6 +5872,7 @@ SplineSet
  492 85 l 1
  450 26 391 -13 297 -13 c 0xbe
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: v
@@ -6294,6 +5897,7 @@ SplineSet
  235 0 l 1
  30 547 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: w
@@ -6329,6 +5933,7 @@ SplineSet
  185 0 l 1
  42 547 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: x
@@ -6358,6 +5963,7 @@ SplineSet
  274 228 l 1
  37 547 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: y
@@ -6388,6 +5994,7 @@ SplineSet
  260 -132 274 -112 288 -83 c 1
  30 547 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: z
@@ -6415,6 +6022,7 @@ SplineSet
  55 498 l 1
  55 547 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: zero
@@ -6451,6 +6059,7 @@ SplineSet
  115 212 148 112 214 65 c 1
  214 663 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: one
@@ -6480,6 +6089,7 @@ SplineSet
  228 729 l 9
  423 729 l 17
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: two
@@ -6519,6 +6129,7 @@ SplineSet
  233 286 277 349 297 381 c 0
  336 443 356 497 356 543 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: three
@@ -6561,6 +6172,7 @@ SplineSet
  490 609 463 649 408 674 c 1
  408 437 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: four
@@ -6594,6 +6206,7 @@ SplineSet
  44 267 l 1
  309 729 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: five
@@ -6631,12 +6244,13 @@ SplineSet
  298 680 l 1
  298 447 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: six
 Encoding: 54 54 532
 Width: 636
-Flags: W
+Flags: HW
 HStem: -14 56<259.326 385.66> 433 49<253.988 416.226> 667 46<456.192 536> 693 49<254.476 506.193>
 VStem: 55 49<191.046 520.595> 204 49<67 428.937 471 639> 387 49<55 416> 534 49<130.341 340.326>
 LayerCount: 2
@@ -6651,7 +6265,8 @@ SplineSet
  104 218 137 116 204 67 c 1
  204 639 l 1
 253 42 m 1
- 283 34 354 33 387 39 c 1
+ 270.143 37.4286 300.673 35.1429 329.851 35.1429 c 0
+ 351.735 35.1429 372.857 36.4286 387 39 c 1
  387 430 l 1
  374 432 353 433 325 433 c 0
  297 433 274 430 253 424 c 1
@@ -6669,6 +6284,7 @@ SplineSet
  583 81 486 -14 330 -14 c 0
  125 -14 55 142 55 358 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: seven
@@ -6693,19 +6309,21 @@ SplineSet
  32 680 l 1
  32 729 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: eight
 Encoding: 56 56 534
 Width: 636
-Flags: W
+Flags: HW
 HStem: -14 49<235.429 400.571> 364 49<267.751 368.249> 693 49<268.92 367.08>
 VStem: 68 51<108.344 282.667> 85 49<478.253 626.324> 218 49<49 349 429 677> 369 49<49 349 429 677> 502 49<479.453 627.523> 517 51<108.344 282.667>
 LayerCount: 2
 Fore
 SplineSet
 418 49 m 1xe680
- 486 73 519 123 517 199 c 0
+ 484.057 72.3143 517.086 120.164 517.086 192.549 c 0
+ 517.086 194.678 517.057 196.829 517 199 c 0
  515 273 481 324 418 349 c 1
  418 49 l 1xe680
 218 677 m 1
@@ -6726,7 +6344,8 @@ SplineSet
 218 49 m 1
  218 349 l 1
  155 324 121 273 119 199 c 0xf6
- 117 123 150 73 218 49 c 1
+ 118.943 196.829 118.914 194.678 118.914 192.549 c 0
+ 118.914 120.164 151.943 72.3143 218 49 c 1
 267 38 m 1
  283 36 300 35 318 35 c 0
  336 35 353 36 369 38 c 1
@@ -6746,6 +6365,7 @@ SplineSet
  502 614 468 657 418 677 c 1
  418 429 l 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: nine
@@ -6785,6 +6405,7 @@ SplineSet
  52 647 149 742 305 742 c 0
  510 742 580 586 580 370 c 0
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
