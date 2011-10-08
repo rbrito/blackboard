@@ -1874,7 +1874,6 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. Glyphs imported from Arev fonts are (c) Tavmjung Bah (see below)+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoACgAA-Arev Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and+AAoA-associated documentation files (the +ACIA-Font Software+ACIA), to reproduce+AAoA-and distribute the modifications to the Bitstream Vera Font Software,+AAoA-including without limitation the rights to use, copy, merge, publish,+AAoA-distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to+AAoA-the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice+AAoA-shall be included in all copies of one or more of the Font Software+AAoA-typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in+AAoA-particular the designs of glyphs or characters in the Fonts may be+AAoA-modified and additional glyphs or characters may be added to the+AAoA-Fonts, only if the fonts are renamed to names not containing either+AAoA-the words +ACIA-Tavmjong Bah+ACIA or the word +ACIA-Arev+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts+AAoA-or Font Software that has been modified and is distributed under the +AAoAIgAA-Tavmjong Bah Arev+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but+AAoA-no copy of one or more of the Font Software typefaces may be sold by+AAoA-itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL+AAoA-TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the name of Tavmjong Bah shall not+AAoA-be used in advertising or otherwise to promote the sale, use or other+AAoA-dealings in this Font Software without prior written authorization+AAoA-from Tavmjong Bah. For further information, contact: tavmjong @ free+AAoA. fr." "http://dejavu.sourceforge.net/wiki/index.php/License" 
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -36
@@ -1884,7 +1883,7 @@ WinInfo: 0 33 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 333312 166656 111104 573440 -1048576 111104 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65551 550
+BeginChars: 65537 536
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -6021,43 +6020,8 @@ LayerCount: 2
 Colour: ff00
 EndChar
 
-StartChar: u10193
-Encoding: 65537 65939 481
-Width: 2048
-LayerCount: 2
-Colour: ffff00
-EndChar
-
-StartChar: u10194
-Encoding: 65538 65940 482
-Width: 2048
-LayerCount: 2
-Colour: ffff00
-EndChar
-
-StartChar: u10196
-Encoding: 65539 65942 483
-Width: 2048
-LayerCount: 2
-Colour: ffff00
-EndChar
-
-StartChar: u10197
-Encoding: 65540 65943 484
-Width: 2048
-LayerCount: 2
-Colour: ffff00
-EndChar
-
-StartChar: u10199
-Encoding: 65541 65945 485
-Width: 2048
-LayerCount: 2
-Colour: ffff00
-EndChar
-
 StartChar: A
-Encoding: 65 65 486
+Encoding: 65 65 481
 Width: 1517
 Flags: W
 LayerCount: 2
@@ -6085,7 +6049,7 @@ EndSplineSet
 EndChar
 
 StartChar: B
-Encoding: 66 66 487
+Encoding: 66 66 482
 Width: 1497
 Flags: W
 LayerCount: 2
@@ -6132,7 +6096,7 @@ EndSplineSet
 EndChar
 
 StartChar: D
-Encoding: 68 68 488
+Encoding: 68 68 483
 Width: 1677
 Flags: W
 LayerCount: 2
@@ -6166,7 +6130,7 @@ EndSplineSet
 EndChar
 
 StartChar: E
-Encoding: 69 69 489
+Encoding: 69 69 484
 Width: 1494
 Flags: W
 LayerCount: 2
@@ -6194,7 +6158,7 @@ EndSplineSet
 EndChar
 
 StartChar: F
-Encoding: 70 70 490
+Encoding: 70 70 485
 Width: 1379
 Flags: W
 LayerCount: 2
@@ -6220,7 +6184,7 @@ EndSplineSet
 EndChar
 
 StartChar: G
-Encoding: 71 71 491
+Encoding: 71 71 486
 Width: 1587
 Flags: W
 LayerCount: 2
@@ -6258,7 +6222,7 @@ EndSplineSet
 EndChar
 
 StartChar: I
-Encoding: 73 73 492
+Encoding: 73 73 487
 Width: 804
 Flags: W
 LayerCount: 2
@@ -6286,7 +6250,7 @@ EndSplineSet
 EndChar
 
 StartChar: J
-Encoding: 74 74 493
+Encoding: 74 74 488
 Width: 802
 Flags: W
 LayerCount: 2
@@ -6314,7 +6278,7 @@ EndSplineSet
 EndChar
 
 StartChar: K
-Encoding: 75 75 494
+Encoding: 75 75 489
 Width: 1541
 Flags: W
 LayerCount: 2
@@ -6341,7 +6305,7 @@ EndSplineSet
 EndChar
 
 StartChar: L
-Encoding: 76 76 495
+Encoding: 76 76 490
 Width: 1341
 Flags: W
 LayerCount: 2
@@ -6363,7 +6327,7 @@ EndSplineSet
 EndChar
 
 StartChar: M
-Encoding: 77 77 496
+Encoding: 77 77 491
 Width: 2099
 Flags: W
 LayerCount: 2
@@ -6397,7 +6361,7 @@ EndSplineSet
 EndChar
 
 StartChar: O
-Encoding: 79 79 497
+Encoding: 79 79 492
 Width: 1612
 Flags: W
 LayerCount: 2
@@ -6436,7 +6400,7 @@ EndSplineSet
 EndChar
 
 StartChar: S
-Encoding: 83 83 498
+Encoding: 83 83 493
 Width: 1300
 Flags: W
 LayerCount: 2
@@ -6486,7 +6450,7 @@ EndSplineSet
 EndChar
 
 StartChar: T
-Encoding: 84 84 499
+Encoding: 84 84 494
 Width: 1450
 Flags: W
 LayerCount: 2
@@ -6510,7 +6474,7 @@ EndSplineSet
 EndChar
 
 StartChar: U
-Encoding: 85 85 500
+Encoding: 85 85 495
 Width: 1700
 Flags: W
 LayerCount: 2
@@ -6547,7 +6511,7 @@ EndSplineSet
 EndChar
 
 StartChar: V
-Encoding: 86 86 501
+Encoding: 86 86 496
 Width: 1480
 Flags: W
 LayerCount: 2
@@ -6570,7 +6534,7 @@ EndSplineSet
 EndChar
 
 StartChar: W
-Encoding: 87 87 502
+Encoding: 87 87 497
 Width: 2269
 Flags: W
 LayerCount: 2
@@ -6604,7 +6568,7 @@ EndSplineSet
 EndChar
 
 StartChar: X
-Encoding: 88 88 503
+Encoding: 88 88 498
 Width: 1650
 Flags: W
 LayerCount: 2
@@ -6632,7 +6596,7 @@ EndSplineSet
 EndChar
 
 StartChar: Y
-Encoding: 89 89 504
+Encoding: 89 89 499
 Width: 1448
 Flags: W
 LayerCount: 2
@@ -6659,7 +6623,7 @@ EndSplineSet
 EndChar
 
 StartChar: a
-Encoding: 97 97 505
+Encoding: 97 97 500
 Width: 1355
 Flags: W
 LayerCount: 2
@@ -6711,7 +6675,7 @@ EndSplineSet
 EndChar
 
 StartChar: b
-Encoding: 98 98 506
+Encoding: 98 98 501
 Width: 1450
 Flags: W
 LayerCount: 2
@@ -6756,7 +6720,7 @@ EndSplineSet
 EndChar
 
 StartChar: c
-Encoding: 99 99 507
+Encoding: 99 99 502
 Width: 1126
 Flags: W
 LayerCount: 2
@@ -6790,7 +6754,7 @@ EndSplineSet
 EndChar
 
 StartChar: d
-Encoding: 100 100 508
+Encoding: 100 100 503
 Width: 1450
 Flags: W
 LayerCount: 2
@@ -6835,7 +6799,7 @@ EndSplineSet
 EndChar
 
 StartChar: e
-Encoding: 101 101 509
+Encoding: 101 101 504
 Width: 1260
 Flags: W
 LayerCount: 2
@@ -6870,7 +6834,7 @@ EndSplineSet
 EndChar
 
 StartChar: f
-Encoding: 102 102 510
+Encoding: 102 102 505
 Width: 953
 Flags: W
 LayerCount: 2
@@ -6907,7 +6871,7 @@ EndSplineSet
 EndChar
 
 StartChar: g
-Encoding: 103 103 511
+Encoding: 103 103 506
 Width: 1450
 Flags: W
 LayerCount: 2
@@ -6962,7 +6926,7 @@ EndSplineSet
 EndChar
 
 StartChar: h
-Encoding: 104 104 512
+Encoding: 104 104 507
 Width: 1509
 Flags: W
 LayerCount: 2
@@ -7002,7 +6966,7 @@ EndSplineSet
 EndChar
 
 StartChar: i
-Encoding: 105 105 513
+Encoding: 105 105 508
 Width: 719
 Flags: W
 LayerCount: 2
@@ -7027,7 +6991,7 @@ EndSplineSet
 EndChar
 
 StartChar: j
-Encoding: 106 106 514
+Encoding: 106 106 509
 Width: 719
 Flags: W
 LayerCount: 2
@@ -7060,7 +7024,7 @@ EndSplineSet
 EndChar
 
 StartChar: k
-Encoding: 107 107 515
+Encoding: 107 107 510
 Width: 1333
 Flags: W
 LayerCount: 2
@@ -7087,7 +7051,7 @@ EndSplineSet
 EndChar
 
 StartChar: l
-Encoding: 108 108 516
+Encoding: 108 108 511
 Width: 719
 Flags: W
 LayerCount: 2
@@ -7114,7 +7078,7 @@ EndSplineSet
 EndChar
 
 StartChar: m
-Encoding: 109 109 517
+Encoding: 109 109 512
 Width: 2338
 Flags: W
 LayerCount: 2
@@ -7173,7 +7137,7 @@ EndSplineSet
 EndChar
 
 StartChar: n
-Encoding: 110 110 518
+Encoding: 110 110 513
 Width: 1509
 Flags: W
 LayerCount: 2
@@ -7213,7 +7177,7 @@ EndSplineSet
 EndChar
 
 StartChar: o
-Encoding: 111 111 519
+Encoding: 111 111 514
 Width: 1253
 Flags: W
 LayerCount: 2
@@ -7251,7 +7215,7 @@ EndSplineSet
 EndChar
 
 StartChar: p
-Encoding: 112 112 520
+Encoding: 112 112 515
 Width: 1450
 Flags: W
 LayerCount: 2
@@ -7296,7 +7260,7 @@ EndSplineSet
 EndChar
 
 StartChar: q
-Encoding: 113 113 521
+Encoding: 113 113 516
 Width: 1450
 Flags: W
 LayerCount: 2
@@ -7341,7 +7305,7 @@ EndSplineSet
 EndChar
 
 StartChar: r
-Encoding: 114 114 522
+Encoding: 114 114 517
 Width: 991
 Flags: W
 LayerCount: 2
@@ -7371,7 +7335,7 @@ EndSplineSet
 EndChar
 
 StartChar: s
-Encoding: 115 115 523
+Encoding: 115 115 518
 Width: 1067
 Flags: W
 LayerCount: 2
@@ -7427,7 +7391,7 @@ EndSplineSet
 EndChar
 
 StartChar: t
-Encoding: 116 116 524
+Encoding: 116 116 519
 Width: 953
 Flags: W
 LayerCount: 2
@@ -7463,7 +7427,7 @@ EndSplineSet
 EndChar
 
 StartChar: u
-Encoding: 117 117 525
+Encoding: 117 117 520
 Width: 1514
 Flags: W
 LayerCount: 2
@@ -7503,7 +7467,7 @@ EndSplineSet
 EndChar
 
 StartChar: v
-Encoding: 118 118 526
+Encoding: 118 118 521
 Width: 1244
 Flags: W
 LayerCount: 2
@@ -7526,7 +7490,7 @@ EndSplineSet
 EndChar
 
 StartChar: w
-Encoding: 119 119 527
+Encoding: 119 119 522
 Width: 1864
 Flags: W
 LayerCount: 2
@@ -7560,7 +7524,7 @@ EndSplineSet
 EndChar
 
 StartChar: x
-Encoding: 120 120 528
+Encoding: 120 120 523
 Width: 1384
 Flags: W
 LayerCount: 2
@@ -7588,7 +7552,7 @@ EndSplineSet
 EndChar
 
 StartChar: y
-Encoding: 121 121 529
+Encoding: 121 121 524
 Width: 1279
 Flags: W
 LayerCount: 2
@@ -7617,7 +7581,7 @@ EndSplineSet
 EndChar
 
 StartChar: z
-Encoding: 122 122 530
+Encoding: 122 122 525
 Width: 1208
 Flags: W
 LayerCount: 2
@@ -7643,7 +7607,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero
-Encoding: 48 48 531
+Encoding: 48 48 526
 Width: 1303
 Flags: W
 LayerCount: 2
@@ -7677,7 +7641,7 @@ EndSplineSet
 EndChar
 
 StartChar: one
-Encoding: 49 49 532
+Encoding: 49 49 527
 Width: 1303
 Flags: W
 LayerCount: 2
@@ -7704,7 +7668,7 @@ EndSplineSet
 EndChar
 
 StartChar: two
-Encoding: 50 50 533
+Encoding: 50 50 528
 Width: 1303
 Flags: W
 LayerCount: 2
@@ -7746,7 +7710,7 @@ EndSplineSet
 EndChar
 
 StartChar: three
-Encoding: 51 51 534
+Encoding: 51 51 529
 Width: 1303
 Flags: W
 LayerCount: 2
@@ -7792,7 +7756,7 @@ EndSplineSet
 EndChar
 
 StartChar: four
-Encoding: 52 52 535
+Encoding: 52 52 530
 Width: 1303
 Flags: W
 LayerCount: 2
@@ -7823,7 +7787,7 @@ EndSplineSet
 EndChar
 
 StartChar: five
-Encoding: 53 53 536
+Encoding: 53 53 531
 Width: 1303
 Flags: W
 LayerCount: 2
@@ -7859,7 +7823,7 @@ EndSplineSet
 EndChar
 
 StartChar: six
-Encoding: 54 54 537
+Encoding: 54 54 532
 Width: 1303
 Flags: W
 LayerCount: 2
@@ -7900,7 +7864,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven
-Encoding: 55 55 538
+Encoding: 55 55 533
 Width: 1303
 Flags: W
 LayerCount: 2
@@ -7923,7 +7887,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight
-Encoding: 56 56 539
+Encoding: 56 56 534
 Width: 1303
 Flags: W
 LayerCount: 2
@@ -7986,7 +7950,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine
-Encoding: 57 57 540
+Encoding: 57 57 535
 Width: 1300
 Flags: W
 LayerCount: 2
@@ -8024,69 +7988,6 @@ SplineSet
  1187 392 1187 392 1019 181.5 c 128,-1,37
  851 -29 851 -29 538 -29 c 0,18,19
 EndSplineSet
-EndChar
-
-StartChar: uni07E8.fina
-Encoding: 65542 -1 541
-Width: 2048
-LayerCount: 2
-Colour: ff0000
-EndChar
-
-StartChar: uni07E8.medi
-Encoding: 65543 -1 542
-Width: 2048
-LayerCount: 2
-Colour: ff0000
-EndChar
-
-StartChar: uni07E8.init
-Encoding: 65544 -1 543
-Width: 2048
-LayerCount: 2
-Colour: ff0000
-EndChar
-
-StartChar: uni07E9.fina
-Encoding: 65545 -1 544
-Width: 2048
-LayerCount: 2
-Colour: ff0000
-EndChar
-
-StartChar: uni07E9.medi
-Encoding: 65546 -1 545
-Width: 2048
-LayerCount: 2
-Colour: ff0000
-EndChar
-
-StartChar: uni07E9.init
-Encoding: 65547 -1 546
-Width: 2048
-LayerCount: 2
-Colour: ff0000
-EndChar
-
-StartChar: uni07EA.fina
-Encoding: 65548 -1 547
-Width: 2048
-LayerCount: 2
-Colour: ff0000
-EndChar
-
-StartChar: uni07EA.medi
-Encoding: 65549 -1 548
-Width: 2048
-LayerCount: 2
-Colour: ff0000
-EndChar
-
-StartChar: uni07EA.init
-Encoding: 65550 -1 549
-Width: 2048
-LayerCount: 2
-Colour: ff0000
 EndChar
 EndChars
 EndSplineFont
