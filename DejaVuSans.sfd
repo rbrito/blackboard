@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1318071242
-ModificationTime: 1318074303
+ModificationTime: 1318074541
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -40,441 +40,8 @@ HheadDescent: -483
 HheadDOffset: 0
 OS2Vendor: 'PfEd'
 OS2CodePages: 600001ff.dfff0000
-Lookup: 6 9 0 "Required Feature in N'Ko"  {"Required Feature in N'Ko"  } [' RQD' ('DFLT' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 6 1 0 "'ccmp' in RTL"  {"'ccmp' in RTL"  } ['ccmp' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 6 0 0 "'ccmp' in Basic"  {"'ccmp' in Basic"  } ['ccmp' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 6 0 0 "'ccmp' Tone Bars"  {"'ccmp' Tone Bars-5"  "'ccmp' Tone Bars-4"  "'ccmp' Tone Bars-3"  "'ccmp' Tone Bars-2"  "'ccmp' Tone Bars-1"  "'ccmp' Tone Bars-Stem-5"  "'ccmp' Tone Bars-Stem-4"  "'ccmp' Tone Bars-Stem-3"  "'ccmp' Tone Bars-Stem-2"  "'ccmp' Tone Bars-Stem-1"  } ['ccmp' ('DFLT' <'dflt' > 'arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'armn' <'dflt' > 'brai' <'dflt' > 'cans' <'dflt' > 'cher' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'hebr' <'dflt' > 'kana' <'dflt' > 'lao ' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'nko ' <'dflt' > 'ogam' <'dflt' > 'runr' <'dflt' > 'tfng' <'dflt' > 'thai' <'dflt' > ) ]
-Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2"  {"'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2"  } ['ccmp' ('hebr' <'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic lookup 3"  {"'locl' Localized Forms in Cyrillic lookup 3"  } ['locl' ('cyrl' <'MKD ' 'SRB ' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 4"  {"'locl' Localized Forms in Latin lookup 4"  } ['locl' ('latn' <'ISM ' 'KSM ' 'LSM ' 'NSM ' 'SKS ' 'SSM ' > ) ]
-Lookup: 1 9 0 "'fina' Terminal Forms in N'Ko"  {"'fina' Terminal Forms in N'Ko"  } ['fina' ('nko ' <'dflt' > ) ]
-Lookup: 1 9 0 "'fina' Terminal Forms in Arabic lookup 5"  {"'fina' Terminal Forms in Arabic lookup 5"  } ['fina' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 1 9 0 "'medi' Medial Forms in N'Ko"  {"'medi' Medial Forms in N'Ko"  } ['medi' ('nko ' <'dflt' > ) ]
-Lookup: 1 9 0 "'medi' Medial Forms in Arabic lookup 6"  {"'medi' Medial Forms in Arabic lookup 6"  } ['medi' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 1 9 0 "'init' Initial Forms in N'Ko"  {"'init' Initial Forms in N'Ko"  } ['init' ('nko ' <'dflt' > ) ]
-Lookup: 1 9 0 "'init' Initial Forms in Arabic lookup 7"  {"'init' Initial Forms in Arabic lookup 7"  } ['init' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 8"  {"'rlig' Required Ligatures in Arabic lookup 8"  } ['rlig' ('arab' <'KUR ' 'dflt' > ) ]
-Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 9"  {"'rlig' Required Ligatures in Arabic lookup 9"  } ['rlig' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 4 9 1 "'rlig' Required Ligatures in Arabic lookup 10"  {"'rlig' Required Ligatures in Arabic lookup 10"  } ['rlig' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 4 9 1 "'liga' Standard Ligatures in Arabic lookup 11"  {"'liga' Standard Ligatures in Arabic lookup 11"  } ['liga' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures in Latin"  {"'liga' Standard Ligatures in Latin"  } ['liga' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 4 1 1 "'liga' Standard Ligatures in Arabic lookup 13"  {"'liga' Standard Ligatures in Arabic lookup 13"  } ['liga' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 4 1 0 "'hlig' Historic Ligatures in Hebrew lookup 17"  {"'hlig' Historic Ligatures in Hebrew lookup 17"  } ['hlig' ('hebr' <'dflt' > ) ]
-Lookup: 4 0 0 "'dlig' Discretionary Ligatures in Armenian lookup 18"  {"'dlig' Discretionary Ligatures in Armenian lookup 18"  } ['dlig' ('armn' <'dflt' > ) ]
-Lookup: 4 0 0 "'dlig' Discretionary Ligatures in Latin lookup 19"  {"'dlig' Discretionary Ligatures in Latin lookup 19"  } ['dlig' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 4 0 0 "'hlig' Historic Ligatures in Latin lookup 20"  {"'hlig' Historic Ligatures in Latin lookup 20"  } ['hlig' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 4 0 0 "'dlig' Discretionary Ligatures lookup 21"  {"'dlig' Discretionary Ligatures lookup 21"  } ['dlig' ('DFLT' <'dflt' > ) ]
-Lookup: 1 1 0 "'aalt' Access All Alternates in Hebrew lookup 23"  {"'aalt' Access All Alternates in Hebrew lookup 23"  } ['aalt' ('hebr' <'dflt' > ) ]
-Lookup: 1 1 0 "'salt' Stylistic Alternatives in Hebrew lookup 24"  {"'salt' Stylistic Alternatives in Hebrew lookup 24"  } ['salt' ('hebr' <'dflt' > ) ]
-Lookup: 1 0 0 "'aalt' Access All Alternates in Greek lookup 25"  {"'aalt' Access All Alternates in Greek lookup 25"  } ['aalt' ('grek' <'dflt' > ) ]
-Lookup: 1 0 0 "'salt' Stylistic Alternatives in Greek lookup 26"  {"'salt' Stylistic Alternatives in Greek lookup 26"  } ['salt' ('grek' <'dflt' > ) ]
-Lookup: 1 0 0 "'salt' Stylistic Alternatives in Latin lookup 28"  {"'salt' Stylistic Alternatives in Latin lookup 28"  } ['salt' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 3 0 0 "'aalt' Access All Alternates in Latin lookup 29"  {"'aalt' Access All Alternates in Latin lookup 29"  } ['aalt' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 1 1 0 "Single Substitution lookup 30"  {"Single Substitution lookup 30"  } []
-Lookup: 1 0 0 "Single Substitution - Case Form"  {"Single Substitution - Case Form"  } []
-Lookup: 1 0 0 "Single Substitution - Dotless Form"  {"Single Substitution - Dotless Form"  } []
-Lookup: 1 0 0 "Single Substitution - Stemless Form-5"  {"Single Substitution - Stemless Form-5" ("5" ) } []
-Lookup: 1 0 0 "Single Substitution - Stemless Form-4"  {"Single Substitution - Stemless Form-4" ("4" ) } []
-Lookup: 1 0 0 "Single Substitution - Stemless Form-3"  {"Single Substitution - Stemless Form-3" ("3" ) } []
-Lookup: 1 0 0 "Single Substitution - Stemless Form-2"  {"Single Substitution - Stemless Form-2" ("2" ) } []
-Lookup: 1 0 0 "Single Substitution - Stemless Form-1"  {"Single Substitution - Stemless Form-1" ("1" ) } []
-Lookup: 1 0 0 "Single Substitution - Stem"  {"Single Substitution - Stem"  } []
-Lookup: 1 1 0 "DejaVuSans-Single Substitution lookup 30"  {"DejaVuSans-Single Substitution lookup 30"  } []
-Lookup: 4 1 0 "DejaVuSans-'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2"  {"DejaVuSans-'ccmp' Glyph Composition/Decomposition in Hebrew lookup 2"  } ['ccmp' ('hebr' <'dflt' > ) ]
-Lookup: 4 1 0 "DejaVuSans-'hlig' Historic Ligatures in Hebrew lookup 17"  {"DejaVuSans-'hlig' Historic Ligatures in Hebrew lookup 17"  } ['hlig' ('hebr' <'dflt' > ) ]
-Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 0"  {"'mkmk' Mark to Mark in Arabic lookup 0"  } ['mkmk' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 1"  {"'mkmk' Mark to Mark in Arabic lookup 1"  } ['mkmk' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 262 0 0 "'mkmk' Mark to Mark in Lao lookup 2"  {"'mkmk' Mark to Mark in Lao lookup 2"  } ['mkmk' ('lao ' <'dflt' > ) ]
-Lookup: 262 0 0 "'mkmk' Mark to Mark in Lao lookup 3"  {"'mkmk' Mark to Mark in Lao lookup 3"  } ['mkmk' ('lao ' <'dflt' > ) ]
-Lookup: 262 4 0 "'mkmk' Mark to Mark in Basic"  {"'mkmk' below-mark"  "'mkmk' above-mark"  } ['mkmk' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 261 1 0 "'mark' Mark Positioning lookup 6"  {"'mark' Mark Positioning lookup 6"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning lookup 7"  {"'mark' Mark Positioning lookup 7"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning lookup 8"  {"'mark' Mark Positioning lookup 8"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 261 1 0 "'mark' Mark Positioning lookup 9"  {"'mark' Mark Positioning lookup 9"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 260 1 0 "'mark' Mark Positioning lookup 10"  {"'mark' Mark Positioning lookup 10"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'nko ' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning in Lao lookup 11"  {"'mark' Mark Positioning in Lao lookup 11"  } ['mark' ('lao ' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning in Lao lookup 12"  {"'mark' Mark Positioning in Lao lookup 12"  } ['mark' ('lao ' <'dflt' > ) ]
-Lookup: 261 0 0 "'mark' Mark to Ligature in Basic"  {"'mark' Ligature below"  } ['mark' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 260 4 0 "'mark' Mark to Base in Basic"  {"'mark' half"  "'mark' above-legacy"  "'mark' cedilla"  "'mark' below"  "'mark' above"  } ['mark' ('cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'tfng' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 16"  {"'kern' Horizontal Kerning in Latin lookup 16"  } ['kern' ('latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Tone Letters"  {"'kern' Tone Letters-1"  } ['kern' ('DFLT' <'dflt' > 'arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'armn' <'dflt' > 'brai' <'dflt' > 'cans' <'dflt' > 'cher' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'hebr' <'dflt' > 'kana' <'dflt' > 'lao ' <'dflt' > 'latn' <'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'nko ' <'dflt' > 'ogam' <'dflt' > 'runr' <'dflt' > 'tfng' <'dflt' > 'thai' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 5 2 "'kern' Tone Letters-1" 
- 79 uni02E6.5 uni02E5.4 uni02E7.4 uni02E6.3 uni02E8.3 uni02E7.2 uni02E9.2 uni02E8.1
- 59 uni02E7.5 uni02E8.4 uni02E5.3 uni02E9.3 uni02E6.2 uni02E7.1
- 39 uni02E8.5 uni02E9.4 uni02E5.2 uni02E6.1
- 19 uni02E9.5 uni02E5.1
- 4 stem
- 0 {} 0 {} 0 {} -40 {} 0 {} -79 {} 0 {} -93 {} 0 {} -100 {}
-KernClass2: 53 80 "'kern' Horizontal Kerning in Latin lookup 16" 
- 6 hyphen
- 1 A
- 1 B
- 1 C
- 12 D Eth Dcaron
- 1 F
- 8 G Gbreve
- 1 H
- 1 J
- 1 K
- 15 L Lacute Lcaron
- 44 O Ograve Oacute Ocircumflex Otilde Odieresis
- 1 P
- 1 Q
- 15 R Racute Rcaron
- 17 S Scedilla Scaron
- 9 T uniA724
- 43 U Ugrave Uacute Ucircumflex Udieresis Uring
- 1 V
- 1 W
- 1 X
- 18 Y Yacute Ydieresis
- 8 Z Zcaron
- 44 e egrave eacute ecircumflex edieresis ecaron
- 1 f
- 1 k
- 15 n ntilde ncaron
- 44 o ograve oacute ocircumflex otilde odieresis
- 8 r racute
- 1 v
- 1 w
- 1 x
- 18 y yacute ydieresis
- 13 guillemotleft
- 14 guillemotright
- 6 Agrave
- 28 Aacute Acircumflex Adieresis
- 6 Atilde
- 2 AE
- 22 Ccedilla Cacute Ccaron
- 5 Thorn
- 10 germandbls
- 3 eth
- 14 Amacron Abreve
- 7 Aogonek
- 6 Dcroat
- 4 ldot
- 6 rcaron
- 6 Tcaron
- 7 uni2010
- 12 quotedblleft
- 12 quotedblbase
- 6 hyphen
- 6 period
- 5 colon
- 44 A Agrave Aacute Acircumflex Atilde Adieresis
- 1 B
- 15 C Cacute Ccaron
- 8 D Dcaron
- 56 F H K L P R Thorn germandbls Lacute Lcaron Racute Rcaron
- 1 G
- 1 J
- 44 O Ograve Oacute Ocircumflex Otilde Odieresis
- 1 Q
- 49 S Sacute Scircumflex Scedilla Scaron Scommaaccent
- 8 T Tcaron
- 43 U Ugrave Uacute Ucircumflex Udieresis Uring
- 1 V
- 1 W
- 1 X
- 18 Y Yacute Ydieresis
- 8 Z Zcaron
- 8 a aacute
- 10 c ccedilla
- 3 d q
- 15 e eacute ecaron
- 1 f
- 12 g h m gbreve
- 1 i
- 1 l
- 15 n ntilde ncaron
- 8 o oacute
- 15 r racute rcaron
- 17 s scedilla scaron
- 8 t tcaron
- 14 u uacute uring
- 1 v
- 1 w
- 1 x
- 18 y yacute ydieresis
- 13 guillemotleft
- 14 guillemotright
- 2 AE
- 8 Ccedilla
- 41 agrave acircumflex atilde adieresis aring
- 28 egrave ecircumflex edieresis
- 3 eth
- 35 ograve ocircumflex otilde odieresis
- 28 ugrave ucircumflex udieresis
- 22 Amacron Abreve Aogonek
- 22 amacron abreve aogonek
- 13 cacute ccaron
- 68 Ccircumflex Cdotaccent Gcircumflex Gdotaccent Omacron Obreve uni022E
- 35 ccircumflex uni01C6 uni021B uni0231
- 23 cdotaccent tcommaaccent
- 6 dcaron
- 6 dcroat
- 33 emacron ebreve edotaccent eogonek
- 6 Gbreve
- 12 Gcommaaccent
- 23 iogonek ij rcommaaccent
- 28 omacron obreve ohungarumlaut
- 13 Ohungarumlaut
- 12 Tcommaaccent
- 4 Tbar
- 43 utilde umacron ubreve uhungarumlaut uogonek
- 28 Wcircumflex Wgrave Wdieresis
- 28 wcircumflex wacute wdieresis
- 18 Ycircumflex Ygrave
- 18 ycircumflex ygrave
- 15 uni01EA uni01EC
- 15 uni01EB uni01ED
- 7 uni021A
- 7 uni022F
- 7 uni0232
- 7 uni0233
- 6 wgrave
- 6 Wacute
- 12 quotedblleft
- 13 quotedblright
- 12 quotedblbase
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} -73 {} 0 {} 0 {} 0 {} 75 {} 114 {} 57 {} 75 {} 0 {} -188 {} 0 {} -120 {} -83 {} -102 {} -243 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 38 {} 0 {} 0 {} 0 {} 0 {} -55 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 38 {} 0 {} -45 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} -36 {} -36 {} 57 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -36 {} -36 {} 0 {} -159 {} 0 {} -131 {} -112 {} 0 {} -159 {} 0 {} 0 {} -36 {} -36 {} -36 {} -73 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -120 {} -83 {} 0 {} -139 {} -73 {} 0 {} 0 {} -36 {} 0 {} -36 {} 0 {} -36 {} 0 {} 57 {} 0 {} -36 {} -36 {} -36 {} -36 {} -36 {} -36 {} -36 {} -36 {} 0 {} 0 {} -36 {} -36 {} -159 {} 0 {} 0 {} -112 {} -83 {} -159 {} -139 {} -36 {} -36 {} -159 {} 0 {} -159 {} -139 {} -83 {} -112 {} -264 {} -253 {} 47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -36 {} 0 {} -36 {} 0 {} 0 {} -63 {} -73 {} 0 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -63 {} -36 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} -73 {} 0 {} -112 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -73 {} -112 {} -112 {} -83 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 38 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} -112 {} 0 {} 0 {} 0 {} -45 {} -55 {} -188 {} 0 {} 0 {} -329 {} -159 {} -188 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -188 {} 0 {} 0 {} -112 {} 0 {} 0 {} -149 {} 0 {} 0 {} -73 {} -149 {} 0 {} 0 {} -112 {} 0 {} 0 {} 0 {} -188 {} 0 {} 0 {} 0 {} 0 {} -188 {} -112 {} 0 {} -73 {} -112 {} -188 {} -188 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -112 {} 0 {} 0 {} -149 {} -73 {} 0 {} -36 {} -36 {} -112 {} 0 {} 0 {} 0 {} -188 {} 0 {} -73 {} -36 {} -73 {} 0 {} -188 {} 0 {} 0 {} -45 {} 0 {} -376 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -73 {} 0 {} 0 {} 0 {} 0 {} -102 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} -45 {} -55 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -73 {} -63 {} -73 {} 0 {} -73 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -73 {} -63 {} -112 {} 0 {} -215 {} 0 {} 0 {} -36 {} 0 {} -112 {} 0 {} 0 {} 0 {} 0 {} -112 {} 0 {} 0 {} -159 {} -55 {} 0 {} -73 {} 0 {} -73 {} 0 {} -36 {} 0 {} 0 {} -102 {} 0 {} 0 {} 0 {} 0 {} 0 {} -102 {} 0 {} 0 {} 0 {} -102 {} 0 {} 0 {} 0 {} -149 {} -131 {} 0 {} 0 {} -112 {} -36 {} -102 {} 0 {} -102 {} -102 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -63 {} -63 {} 0 {} 0 {} -36 {} 0 {} 0 {} 47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -73 {} 0 {} 0 {} -282 {} -102 {} -225 {} -188 {} 0 {} -272 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} -188 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} -36 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -415 {} -538 {} 0 {} 0 {} 57 {} -83 {} -36 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} -131 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} -36 {} -188 {} 0 {} -45 {} -319 {} 0 {} -131 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} 0 {} -92 {} 0 {} 0 {} -73 {} 0 {} 0 {} -45 {} 0 {} -36 {} -73 {} -36 {} -36 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} -92 {} -73 {} 0 {} -73 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 38 {} 38 {} -329 {} 0 {} 57 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} -36 {} -131 {} 0 {} -83 {} -73 {} -63 {} -83 {} 0 {} -102 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -149 {} 0 {} -112 {} -83 {} 0 {} -131 {} 0 {} -45 {} 0 {} 0 {} -92 {} 0 {} 0 {} 0 {} 0 {} 0 {} -92 {} 0 {} 0 {} 0 {} -92 {} 0 {} 0 {} 0 {} -112 {} -112 {} -36 {} 0 {} -102 {} -45 {} -92 {} 0 {} -92 {} -92 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -149 {} -131 {} -36 {} 0 {} 0 {} 0 {} 0 {} 38 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -188 {} -243 {} -225 {} -159 {} 0 {} -120 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -339 {} -348 {} 0 {} -348 {} 0 {} 0 {} -63 {} 0 {} 0 {} -348 {} -301 {} -339 {} 0 {} -311 {} 0 {} -339 {} 0 {} -319 {} -188 {} -112 {} 0 {} -120 {} -239 {} -288 {} 0 {} -268 {} -281 {} 0 {} 0 {} -348 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} -264 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -120 {} -264 {} -167 {} -131 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -159 {} 0 {} 0 {} -159 {} 0 {} 0 {} -45 {} 0 {} 0 {} -159 {} 0 {} 0 {} 0 {} -139 {} 0 {} 0 {} 0 {} -55 {} -178 {} -112 {} 0 {} 0 {} -159 {} -159 {} 0 {} -159 {} -139 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -282 {} 0 {} -83 {} -235 {} -120 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -131 {} 0 {} 0 {} -120 {} 0 {} 0 {} -45 {} 0 {} 0 {} -120 {} -92 {} 0 {} 0 {} -73 {} 0 {} 0 {} 0 {} -36 {} -112 {} -36 {} 0 {} 0 {} -131 {} -120 {} 0 {} -120 {} -73 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} -264 {} 0 {} -102 {} 0 {} 0 {} 0 {} 0 {} -149 {} 0 {} 0 {} 0 {} 0 {} -131 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -92 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -112 {} 0 {} 0 {} -149 {} 0 {} -92 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -159 {} -83 {} -45 {} 0 {} -243 {} -415 {} -272 {} -159 {} 0 {} -112 {} 0 {} 0 {} 0 {} 0 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -282 {} 0 {} 0 {} -272 {} 0 {} 0 {} -73 {} 0 {} 0 {} -272 {} 0 {} 0 {} 0 {} -235 {} 0 {} 0 {} 0 {} 0 {} -225 {} -149 {} 0 {} -112 {} -282 {} -272 {} 0 {} -272 {} -235 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -112 {} -36 {} -264 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -112 {} -149 {} -73 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -36 {} -73 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 65 {} 0 {} -235 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -73 {} 0 {} 0 {} 0 {} 0 {} 0 {} -73 {} 0 {} 0 {} 0 {} -63 {} 0 {} 0 {} 0 {} -73 {} 0 {} 0 {} 0 {} 0 {} -36 {} -73 {} 0 {} -73 {} -63 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -149 {} -112 {} -92 {} 0 {} 38 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -63 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -149 {} -73 {} -131 {} 0 {} -131 {} -188 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} -36 {} -45 {} 0 {} -36 {} 0 {} 0 {} -36 {} -45 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} -55 {} 0 {} -73 {} 0 {} 0 {} 0 {} 0 {} -45 {} 0 {} -45 {} 0 {} 0 {} 0 {} -45 {} 0 {} 0 {} 0 {} 72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 86 {} -311 {} 0 {} -55 {} -159 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -272 {} 0 {} 0 {} -188 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -215 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} -63 {} 0 {} 0 {} 0 {} 0 {} 0 {} -63 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -63 {} 0 {} -63 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -292 {} -149 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -301 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} -36 {} 0 {} -36 {} -36 {} 0 {} 0 {} 0 {} -112 {} 0 {} -112 {} -36 {} 0 {} -149 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} 0 {} -36 {} 0 {} 0 {} 151 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -73 {} -73 {} -36 {} -36 {} 0 {} 0 {} -36 {} -36 {} 0 {} 0 {} -188 {} 0 {} -178 {} -112 {} -112 {} -225 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} 0 {} -36 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} -36 {} -36 {} 57 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -36 {} -36 {} 0 {} -159 {} 0 {} -131 {} -112 {} 0 {} -159 {} 0 {} 0 {} -36 {} -36 {} -36 {} -73 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -120 {} -83 {} 0 {} -139 {} -73 {} 0 {} 0 {} -36 {} 0 {} -36 {} 0 {} -36 {} 0 {} 57 {} 0 {} -36 {} -36 {} 0 {} -36 {} -36 {} 0 {} -36 {} -36 {} 0 {} 0 {} -36 {} -36 {} -159 {} 0 {} 0 {} -112 {} -83 {} -159 {} -139 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} -264 {} -253 {} 47 {} 0 {} -45 {} -36 {} -36 {} 57 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -36 {} -36 {} 0 {} -159 {} 0 {} -131 {} -112 {} 0 {} -159 {} 0 {} 0 {} -36 {} -36 {} -36 {} -73 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -120 {} -83 {} 0 {} -139 {} -73 {} 0 {} 0 {} -36 {} 0 {} -36 {} 0 {} -36 {} 0 {} 57 {} 0 {} -36 {} -36 {} 0 {} -36 {} -36 {} 0 {} -36 {} -36 {} 0 {} 0 {} -36 {} -36 {} -159 {} 0 {} 0 {} -112 {} -83 {} -159 {} -139 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} -112 {} -264 {} -253 {} 47 {} 0 {} -45 {} -36 {} -36 {} 57 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -36 {} -36 {} 0 {} -159 {} 0 {} -131 {} -112 {} 0 {} -159 {} 0 {} 0 {} -36 {} -36 {} -36 {} -73 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -120 {} -83 {} 0 {} -139 {} -73 {} 0 {} 0 {} -36 {} 0 {} -36 {} 0 {} -36 {} 0 {} 57 {} 0 {} -36 {} -36 {} 0 {} -36 {} -36 {} 0 {} -36 {} -36 {} 0 {} 0 {} -36 {} -36 {} -159 {} 0 {} 0 {} -112 {} -83 {} -159 {} -139 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -112 {} -264 {} -253 {} 47 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -83 {} -92 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 38 {} 0 {} 0 {} 0 {} -149 {} -73 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} -188 {} 0 {} 38 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -112 {} -112 {} -83 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -92 {} -112 {} -73 {} 0 {} -45 {} -36 {} -36 {} 57 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -36 {} -36 {} 0 {} -159 {} 0 {} -131 {} -112 {} 0 {} -159 {} 0 {} 0 {} -36 {} -36 {} -36 {} -73 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -120 {} -83 {} 0 {} -139 {} -73 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} -36 {} 0 {} 57 {} 0 {} 0 {} -36 {} 0 {} -36 {} -36 {} -36 {} -36 {} 0 {} 0 {} 0 {} -36 {} -36 {} -159 {} 0 {} 0 {} -112 {} -83 {} -159 {} -139 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} -112 {} -264 {} -254 {} 47 {} 0 {} -45 {} -36 {} -36 {} 57 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -36 {} -36 {} 0 {} -159 {} 0 {} -131 {} -112 {} 0 {} -159 {} 0 {} 0 {} -36 {} -36 {} -36 {} -73 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -36 {} 0 {} -120 {} -83 {} 0 {} 0 {} -73 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} -36 {} 0 {} 57 {} 0 {} 0 {} -36 {} 0 {} -36 {} -36 {} -36 {} -36 {} 0 {} 0 {} 0 {} -36 {} 0 {} -159 {} 0 {} 0 {} -112 {} -83 {} -159 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} -112 {} -264 {} -254 {} 47 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} -55 {} -188 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -193 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -131 {} -188 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} -36 {} -45 {} 0 {} -36 {} 0 {} 0 {} -36 {} -45 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} -55 {} 0 {} -73 {} 0 {} 0 {} 0 {} 0 {} -45 {} 0 {} -45 {} 0 {} 0 {} 0 {} -45 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 86 {} -311 {} 0 {} -188 {} -243 {} -225 {} -159 {} 0 {} -120 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -339 {} -348 {} 0 {} -348 {} 0 {} 0 {} -63 {} 0 {} 0 {} -348 {} -301 {} -339 {} 0 {} -311 {} 0 {} -339 {} 0 {} -319 {} -188 {} -112 {} 0 {} -120 {} -339 {} -348 {} 0 {} -348 {} -311 {} 0 {} 0 {} -348 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -45 {} -264 {} 0 {} 0 {} 0 {} 0 {} -45 {} -73 {} 0 {} 0 {} 0 {} 75 {} 114 {} 57 {} 75 {} 0 {} -188 {} 0 {} -120 {} -83 {} -102 {} -243 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 38 {} 0 {} 0 {} 0 {} 0 {} -55 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 38 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 75 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -264 {} -63 {} -73 {} -63 {} -63 {} -73 {} -63 {} -73 {} -73 {} 0 {} 0 {} 0 {} 0 {} 0 {} -120 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} -73 {} 0 {} 0 {} 0 {} -112 {} -149 {} -112 {} 0 {} 0 {} 0 {} -73 {} -73 {} 0 {} -73 {} 0 {} 0 {} -387 {} -73 {} 0 {} 0 {} -73 {} -149 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -73 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 38 {} -73 {} -112 {} -73 {} -73 {} -73 {} 47 {} -112 {} -112 {} 0 {} -282 {} 0 {} -376 {} -253 {} -73 {} -376 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} -73 {} -73 {} -73 {} 0 {} 0 {} 0 {} -235 {} -196 {} 0 {} -112 {} 0 {} 0 {} 38 {} -112 {} 0 {} 0 {} -73 {} -73 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -73 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
-ChainSub2: class "Required Feature in N'Ko"  2 2 2 3
-  Class: 1425 uni07CA uni07CB uni07CC uni07CD uni07CE uni07CF uni07D0 uni07D1 uni07D2 uni07D3 uni07D4 uni07D5 uni07D6 uni07D7 uni07D8 uni07D9 uni07DA uni07DB uni07DC uni07DD uni07DE uni07DF uni07E0 uni07E1 uni07E2 uni07E3 uni07E4 uni07E5 uni07E6 uni07E7 uni07FA uni200D uni07CA.fina uni07CA.medi uni07CA.init uni07CB.fina uni07CB.medi uni07CB.init uni07CC.fina uni07CC.medi uni07CC.init uni07CD.fina uni07CD.medi uni07CD.init uni07CE.fina uni07CE.medi uni07CE.init uni07CF.fina uni07CF.medi uni07CF.init uni07D0.fina uni07D0.medi uni07D0.init uni07D1.fina uni07D1.medi uni07D1.init uni07D2.fina uni07D2.medi uni07D2.init uni07D3.fina uni07D3.medi uni07D3.init uni07D4.fina uni07D4.medi uni07D4.init uni07D5.fina uni07D5.medi uni07D5.init uni07D6.fina uni07D6.medi uni07D6.init uni07D7.fina uni07D7.medi uni07D7.init uni07D8.fina uni07D8.medi uni07D8.init uni07D9.fina uni07D9.medi uni07D9.init uni07DA.fina uni07DA.medi uni07DA.init uni07DB.fina uni07DB.medi uni07DB.init uni07DC.fina uni07DC.medi uni07DC.init uni07DD.fina uni07DD.medi uni07DD.init uni07DE.fina uni07DE.medi uni07DE.init uni07DF.fina uni07DF.medi uni07DF.init uni07E0.fina uni07E0.medi uni07E0.init uni07E1.fina uni07E1.medi uni07E1.init uni07E2.fina uni07E2.medi uni07E2.init uni07E3.fina uni07E3.medi uni07E3.init uni07E4.fina uni07E4.medi uni07E4.init uni07E5.fina uni07E5.medi uni07E5.init uni07E6.fina uni07E6.medi uni07E6.init uni07E7.fina uni07E7.medi uni07E7.init
-  BClass: 1425 uni07CA uni07CB uni07CC uni07CD uni07CE uni07CF uni07D0 uni07D1 uni07D2 uni07D3 uni07D4 uni07D5 uni07D6 uni07D7 uni07D8 uni07D9 uni07DA uni07DB uni07DC uni07DD uni07DE uni07DF uni07E0 uni07E1 uni07E2 uni07E3 uni07E4 uni07E5 uni07E6 uni07E7 uni07FA uni200D uni07CA.fina uni07CA.medi uni07CA.init uni07CB.fina uni07CB.medi uni07CB.init uni07CC.fina uni07CC.medi uni07CC.init uni07CD.fina uni07CD.medi uni07CD.init uni07CE.fina uni07CE.medi uni07CE.init uni07CF.fina uni07CF.medi uni07CF.init uni07D0.fina uni07D0.medi uni07D0.init uni07D1.fina uni07D1.medi uni07D1.init uni07D2.fina uni07D2.medi uni07D2.init uni07D3.fina uni07D3.medi uni07D3.init uni07D4.fina uni07D4.medi uni07D4.init uni07D5.fina uni07D5.medi uni07D5.init uni07D6.fina uni07D6.medi uni07D6.init uni07D7.fina uni07D7.medi uni07D7.init uni07D8.fina uni07D8.medi uni07D8.init uni07D9.fina uni07D9.medi uni07D9.init uni07DA.fina uni07DA.medi uni07DA.init uni07DB.fina uni07DB.medi uni07DB.init uni07DC.fina uni07DC.medi uni07DC.init uni07DD.fina uni07DD.medi uni07DD.init uni07DE.fina uni07DE.medi uni07DE.init uni07DF.fina uni07DF.medi uni07DF.init uni07E0.fina uni07E0.medi uni07E0.init uni07E1.fina uni07E1.medi uni07E1.init uni07E2.fina uni07E2.medi uni07E2.init uni07E3.fina uni07E3.medi uni07E3.init uni07E4.fina uni07E4.medi uni07E4.init uni07E5.fina uni07E5.medi uni07E5.init uni07E6.fina uni07E6.medi uni07E6.init uni07E7.fina uni07E7.medi uni07E7.init
-  FClass: 1425 uni07CA uni07CB uni07CC uni07CD uni07CE uni07CF uni07D0 uni07D1 uni07D2 uni07D3 uni07D4 uni07D5 uni07D6 uni07D7 uni07D8 uni07D9 uni07DA uni07DB uni07DC uni07DD uni07DE uni07DF uni07E0 uni07E1 uni07E2 uni07E3 uni07E4 uni07E5 uni07E6 uni07E7 uni07FA uni200D uni07CA.fina uni07CA.medi uni07CA.init uni07CB.fina uni07CB.medi uni07CB.init uni07CC.fina uni07CC.medi uni07CC.init uni07CD.fina uni07CD.medi uni07CD.init uni07CE.fina uni07CE.medi uni07CE.init uni07CF.fina uni07CF.medi uni07CF.init uni07D0.fina uni07D0.medi uni07D0.init uni07D1.fina uni07D1.medi uni07D1.init uni07D2.fina uni07D2.medi uni07D2.init uni07D3.fina uni07D3.medi uni07D3.init uni07D4.fina uni07D4.medi uni07D4.init uni07D5.fina uni07D5.medi uni07D5.init uni07D6.fina uni07D6.medi uni07D6.init uni07D7.fina uni07D7.medi uni07D7.init uni07D8.fina uni07D8.medi uni07D8.init uni07D9.fina uni07D9.medi uni07D9.init uni07DA.fina uni07DA.medi uni07DA.init uni07DB.fina uni07DB.medi uni07DB.init uni07DC.fina uni07DC.medi uni07DC.init uni07DD.fina uni07DD.medi uni07DD.init uni07DE.fina uni07DE.medi uni07DE.init uni07DF.fina uni07DF.medi uni07DF.init uni07E0.fina uni07E0.medi uni07E0.init uni07E1.fina uni07E1.medi uni07E1.init uni07E2.fina uni07E2.medi uni07E2.init uni07E3.fina uni07E3.medi uni07E3.init uni07E4.fina uni07E4.medi uni07E4.init uni07E5.fina uni07E5.medi uni07E5.init uni07E6.fina uni07E6.medi uni07E6.init uni07E7.fina uni07E7.medi uni07E7.init
- 1 1 1
-  ClsList: 1
-  BClsList: 1
-  FClsList: 1
- 1
-  SeqLookup: 0 "'medi' Medial Forms in N'Ko" 
- 1 1 0
-  ClsList: 1
-  BClsList: 1
-  FClsList:
- 1
-  SeqLookup: 0 "'fina' Terminal Forms in N'Ko" 
- 1 0 1
-  ClsList: 1
-  BClsList:
-  FClsList: 1
- 1
-  SeqLookup: 0 "'init' Initial Forms in N'Ko" 
-EndFPST
-ChainSub2: class "'ccmp' Tone Bars-Stem-1"  3 3 0 1
-  Class: 7 uni02E9
-  Class: 39 uni02E5.1 uni02E6.1 uni02E7.1 uni02E8.1
-  BClass: 7 uni02E9
-  BClass: 39 uni02E5.1 uni02E6.1 uni02E7.1 uni02E8.1
- 1 1 0
-  ClsList: 1
-  BClsList: 2
-  FClsList:
- 1
-  SeqLookup: 0 "Single Substitution - Stem" 
-EndFPST
-ChainSub2: class "'ccmp' Tone Bars-Stem-2"  3 3 0 1
-  Class: 7 uni02E8
-  Class: 39 uni02E5.2 uni02E6.2 uni02E7.2 uni02E9.2
-  BClass: 7 uni02E8
-  BClass: 39 uni02E5.2 uni02E6.2 uni02E7.2 uni02E9.2
- 1 1 0
-  ClsList: 1
-  BClsList: 2
-  FClsList:
- 1
-  SeqLookup: 0 "Single Substitution - Stem" 
-EndFPST
-ChainSub2: class "'ccmp' Tone Bars-Stem-3"  3 3 0 1
-  Class: 7 uni02E7
-  Class: 39 uni02E5.3 uni02E6.3 uni02E8.3 uni02E9.3
-  BClass: 7 uni02E7
-  BClass: 39 uni02E5.3 uni02E6.3 uni02E8.3 uni02E9.3
- 1 1 0
-  ClsList: 1
-  BClsList: 2
-  FClsList:
- 1
-  SeqLookup: 0 "Single Substitution - Stem" 
-EndFPST
-ChainSub2: class "'ccmp' Tone Bars-1"  3 0 3 2
-  Class: 7 uni02E9
-  Class: 31 uni02E5 uni02E6 uni02E7 uni02E8
-  FClass: 7 uni02E9
-  FClass: 31 uni02E5 uni02E6 uni02E7 uni02E8
- 1 0 1
-  ClsList: 1
-  BClsList:
-  FClsList: 1
- 1
-  SeqLookup: 0 "Single Substitution - Stemless Form-1" 
- 1 0 1
-  ClsList: 2
-  BClsList:
-  FClsList: 1
- 1
-  SeqLookup: 0 "Single Substitution - Stemless Form-1" 
-EndFPST
-ChainSub2: class "'ccmp' Tone Bars-2"  3 0 3 2
-  Class: 7 uni02E8
-  Class: 31 uni02E5 uni02E6 uni02E7 uni02E9
-  FClass: 7 uni02E8
-  FClass: 31 uni02E5 uni02E6 uni02E7 uni02E9
- 1 0 1
-  ClsList: 1
-  BClsList:
-  FClsList: 1
- 1
-  SeqLookup: 0 "Single Substitution - Stemless Form-2" 
- 1 0 1
-  ClsList: 2
-  BClsList:
-  FClsList: 1
- 1
-  SeqLookup: 0 "Single Substitution - Stemless Form-2" 
-EndFPST
-ChainSub2: class "'ccmp' Tone Bars-3"  3 0 3 2
-  Class: 7 uni02E7
-  Class: 31 uni02E5 uni02E6 uni02E8 uni02E9
-  FClass: 7 uni02E7
-  FClass: 31 uni02E5 uni02E6 uni02E8 uni02E9
- 1 0 1
-  ClsList: 1
-  BClsList:
-  FClsList: 1
- 1
-  SeqLookup: 0 "Single Substitution - Stemless Form-3" 
- 1 0 1
-  ClsList: 2
-  BClsList:
-  FClsList: 1
- 1
-  SeqLookup: 0 "Single Substitution - Stemless Form-3" 
-EndFPST
-ChainSub2: class "'ccmp' Tone Bars-Stem-4"  3 3 0 1
-  Class: 7 uni02E6
-  Class: 39 uni02E5.4 uni02E7.4 uni02E8.4 uni02E9.4
-  BClass: 7 uni02E6
-  BClass: 39 uni02E5.4 uni02E7.4 uni02E8.4 uni02E9.4
- 1 1 0
-  ClsList: 1
-  BClsList: 2
-  FClsList:
- 1
-  SeqLookup: 0 "Single Substitution - Stem" 
-EndFPST
-ChainSub2: class "'ccmp' Tone Bars-Stem-5"  3 3 0 1
-  Class: 7 uni02E5
-  Class: 39 uni02E6.5 uni02E7.5 uni02E8.5 uni02E9.5
-  BClass: 7 uni02E5
-  BClass: 39 uni02E6.5 uni02E7.5 uni02E8.5 uni02E9.5
- 1 1 0
-  ClsList: 1
-  BClsList: 2
-  FClsList:
- 1
-  SeqLookup: 0 "Single Substitution - Stem" 
-EndFPST
-ChainSub2: class "'ccmp' Tone Bars-4"  3 0 3 2
-  Class: 7 uni02E6
-  Class: 31 uni02E5 uni02E7 uni02E8 uni02E9
-  FClass: 7 uni02E6
-  FClass: 31 uni02E5 uni02E7 uni02E8 uni02E9
- 1 0 1
-  ClsList: 1
-  BClsList:
-  FClsList: 1
- 1
-  SeqLookup: 0 "Single Substitution - Stemless Form-4" 
- 1 0 1
-  ClsList: 2
-  BClsList:
-  FClsList: 1
- 1
-  SeqLookup: 0 "Single Substitution - Stemless Form-4" 
-EndFPST
-ChainSub2: class "'ccmp' Tone Bars-5"  3 0 3 2
-  Class: 7 uni02E5
-  Class: 31 uni02E6 uni02E7 uni02E8 uni02E9
-  FClass: 7 uni02E5
-  FClass: 31 uni02E6 uni02E7 uni02E8 uni02E9
- 1 0 1
-  ClsList: 1
-  BClsList:
-  FClsList: 1
- 1
-  SeqLookup: 0 "Single Substitution - Stemless Form-5" 
- 1 0 1
-  ClsList: 2
-  BClsList:
-  FClsList: 1
- 1
-  SeqLookup: 0 "Single Substitution - Stemless Form-5" 
-EndFPST
-ChainSub2: class "'ccmp' in Basic"  5 5 5 6
-  Class: 91 i j iogonek uni0249 uni0268 uni029D uni03F3 uni0456 uni0458 uni1E2D uni1ECB uni2148 uni2149
-  Class: 363 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni033F uni0340 uni0341 uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0351 uni0352 uni0357 uni0483 uni0484 uni0485 uni0486 uni20D0 uni20D1 uni20D6 uni20D7
-  Class: 1055 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z b d f h k l t Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute lacute Lcommaaccent lcommaaccent Lcaron lcaron Ldot ldot Lslash lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron Tcommaaccent Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron longs uni0186 uni0190 florin uni0194 uni01CD uni01CF uni01D0 uni01D1 uni01D3 uni01E2 uni01EA uni01EC Scommaaccent uni021A uni022E uni0232
-  Class: 316 uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0321 uni0322 dotbelowcomb uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0345 uni0347 uni0348 uni0349 uni034D uni034E uni0353
-  BClass: 91 i j iogonek uni0249 uni0268 uni029D uni03F3 uni0456 uni0458 uni1E2D uni1ECB uni2148 uni2149
-  BClass: 363 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni033F uni0340 uni0341 uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0351 uni0352 uni0357 uni0483 uni0484 uni0485 uni0486 uni20D0 uni20D1 uni20D6 uni20D7
-  BClass: 1055 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z b d f h k l t Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute lacute Lcommaaccent lcommaaccent Lcaron lcaron Ldot ldot Lslash lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron Tcommaaccent Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron longs uni0186 uni0190 florin uni0194 uni01CD uni01CF uni01D0 uni01D1 uni01D3 uni01E2 uni01EA uni01EC Scommaaccent uni021A uni022E uni0232
-  BClass: 316 uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0321 uni0322 dotbelowcomb uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0345 uni0347 uni0348 uni0349 uni034D uni034E uni0353
-  FClass: 91 i j iogonek uni0249 uni0268 uni029D uni03F3 uni0456 uni0458 uni1E2D uni1ECB uni2148 uni2149
-  FClass: 363 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030D uni030E uni030F uni0310 uni0311 uni0312 uni0313 uni0314 uni033D uni033E uni033F uni0340 uni0341 uni0342 uni0343 uni0344 uni0346 uni034A uni034B uni034C uni0351 uni0352 uni0357 uni0483 uni0484 uni0485 uni0486 uni20D0 uni20D1 uni20D6 uni20D7
-  FClass: 1055 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z b d f h k l t Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute lacute Lcommaaccent lcommaaccent Lcaron lcaron Ldot ldot Lslash lslash Nacute Ncommaaccent Ncaron Eng Omacron Obreve Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron Tcommaaccent Tcaron Tbar Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron longs uni0186 uni0190 florin uni0194 uni01CD uni01CF uni01D0 uni01D1 uni01D3 uni01E2 uni01EA uni01EC Scommaaccent uni021A uni022E uni0232
-  FClass: 316 uni0316 uni0317 uni0318 uni0319 uni031C uni031D uni031E uni031F uni0320 uni0321 uni0322 dotbelowcomb uni0324 uni0325 uni0326 uni0327 uni0328 uni0329 uni032A uni032B uni032C uni032D uni032E uni032F uni0330 uni0331 uni0332 uni0333 uni0339 uni033A uni033B uni033C uni0345 uni0347 uni0348 uni0349 uni034D uni034E uni0353
- 1 0 1
-  ClsList: 1
-  BClsList:
-  FClsList: 2
- 1
-  SeqLookup: 0 "Single Substitution - Dotless Form" 
- 1 0 2
-  ClsList: 1
-  BClsList:
-  FClsList: 4 2
- 1
-  SeqLookup: 0 "Single Substitution - Dotless Form" 
- 1 0 3
-  ClsList: 1
-  BClsList:
-  FClsList: 4 4 2
- 1
-  SeqLookup: 0 "Single Substitution - Dotless Form" 
- 1 1 0
-  ClsList: 2
-  BClsList: 3
-  FClsList:
- 1
-  SeqLookup: 0 "Single Substitution - Case Form" 
- 1 2 0
-  ClsList: 2
-  BClsList: 4 3
-  FClsList:
- 1
-  SeqLookup: 0 "Single Substitution - Case Form" 
- 1 3 0
-  ClsList: 2
-  BClsList: 4 4 3
-  FClsList:
- 1
-  SeqLookup: 0 "Single Substitution - Case Form" 
-EndFPST
-ChainSub2: class "'ccmp' in RTL"  3 0 3 1
-  Class: 7 uni05E2
-  Class: 95 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni05C7
-  FClass: 7 uni05E2
-  FClass: 95 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni05C7
- 1 0 1
-  ClsList: 1
-  BClsList:
-  FClsList: 2
- 1
-  SeqLookup: 0 "Single Substitution lookup 30" 
-EndFPST
 TtTable: prep
 PUSHW_1
  640
@@ -2317,7 +1884,6 @@ WinInfo: 0 33 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 333312 166656 111104 573440 -1048576 111104 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "half"  "'mark' half" "above-legacy"  "'mark' above-legacy" "cedilla"  "'mark' cedilla" "above"  "'mark' above" "below"  "'mark' below" "Ligature below"  "'mark' Ligature below" "lao-above"  "'mark' Mark Positioning in Lao lookup 12" "lao-below"  "'mark' Mark Positioning in Lao lookup 11" "rtl-above"  "'mark' Mark Positioning lookup 10" "Ligature rtl-above"  "'mark' Mark Positioning lookup 9" "rtl-inside"  "'mark' Mark Positioning lookup 8" "rtl-below"  "'mark' Mark Positioning lookup 7" "Ligature rtl-below"  "'mark' Mark Positioning lookup 6" "above-mark"  "'mkmk' above-mark" "below-mark"  "'mkmk' below-mark" "lao-above-mark"  "'mkmk' Mark to Mark in Lao lookup 3" "lao-below-mark"  "'mkmk' Mark to Mark in Lao lookup 2" "rtl-above-mark"  "'mkmk' Mark to Mark in Arabic lookup 1" "rtl-below-mark"  "'mkmk' Mark to Mark in Arabic lookup 0" 
 BeginChars: 1114414 550
 
 StartChar: .notdef
@@ -5158,8 +4724,6 @@ StartChar: C
 Encoding: 67 67 399
 Width: 1430
 Flags: W
-AnchorPoint: "below" 844 0 basechar 0
-AnchorPoint: "above" 844 1520 basechar 0 22
 LayerCount: 2
 Fore
 SplineSet
@@ -5194,8 +4758,6 @@ StartChar: H
 Encoding: 72 72 400
 Width: 1740
 Flags: W
-AnchorPoint: "below" 870 0 basechar 0
-AnchorPoint: "above" 870 1520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5229,8 +4791,6 @@ StartChar: N
 Encoding: 78 78 401
 Width: 1640
 Flags: W
-AnchorPoint: "above" 820 1506 basechar 0
-AnchorPoint: "below" 820 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5257,8 +4817,6 @@ StartChar: P
 Encoding: 80 80 402
 Width: 1436
 Flags: W
-AnchorPoint: "below" 782 0 basechar 0
-AnchorPoint: "above" 782 1520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5297,8 +4855,6 @@ StartChar: Q
 Encoding: 81 81 403
 Width: 1612
 Flags: W
-AnchorPoint: "below" 807 0 basechar 0
-AnchorPoint: "above" 807 1520 basechar 0 12
 LayerCount: 2
 Fore
 SplineSet
@@ -5342,8 +4898,6 @@ StartChar: R
 Encoding: 82 82 404
 Width: 1622
 Flags: W
-AnchorPoint: "below" 863 0 basechar 0
-AnchorPoint: "above" 863 1506 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5397,8 +4951,6 @@ StartChar: Z
 Encoding: 90 90 405
 Width: 1525
 Flags: W
-AnchorPoint: "below" 762 0 basechar 0
-AnchorPoint: "above" 762 1506 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5425,8 +4977,6 @@ StartChar: pi
 Encoding: 960 960 406
 Width: 1438
 Flags: W
-AnchorPoint: "below" 759 0 basechar 0
-AnchorPoint: "above" 759 1147 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5477,8 +5027,6 @@ StartChar: gamma
 Encoding: 947 947 407
 Width: 1490
 Flags: W
-AnchorPoint: "below" 864 -430 basechar 0
-AnchorPoint: "above" 864 1147 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5508,8 +5056,6 @@ StartChar: Gamma
 Encoding: 915 915 408
 Width: 1340
 Flags: W
-AnchorPoint: "below" 764 0 basechar 0
-AnchorPoint: "above" 764 1520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5532,8 +5078,6 @@ StartChar: Pi
 Encoding: 928 928 409
 Width: 1738
 Flags: W
-AnchorPoint: "above" 869 1520 basechar 0
-AnchorPoint: "below" 869 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6516,8 +6060,6 @@ StartChar: A
 Encoding: 65 65 486
 Width: 1517
 Flags: W
-AnchorPoint: "below" 757 0 basechar 0
-AnchorPoint: "above" 757 1520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6546,8 +6088,6 @@ StartChar: B
 Encoding: 66 66 487
 Width: 1497
 Flags: W
-AnchorPoint: "above" 750 1520 basechar 0
-AnchorPoint: "below" 750 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6595,8 +6135,6 @@ StartChar: D
 Encoding: 68 68 488
 Width: 1677
 Flags: W
-AnchorPoint: "above" 828 1540 basechar 0
-AnchorPoint: "below" 828 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6631,8 +6169,6 @@ StartChar: E
 Encoding: 69 69 489
 Width: 1494
 Flags: W
-AnchorPoint: "above" 775 1520 basechar 0
-AnchorPoint: "below" 775 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6661,8 +6197,6 @@ StartChar: F
 Encoding: 70 70 490
 Width: 1379
 Flags: W
-AnchorPoint: "above" 775 1520 basechar 0
-AnchorPoint: "below" 775 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6689,8 +6223,6 @@ StartChar: G
 Encoding: 71 71 491
 Width: 1587
 Flags: W
-AnchorPoint: "above" 860 1520 basechar 0
-AnchorPoint: "below" 860 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6729,8 +6261,6 @@ StartChar: I
 Encoding: 73 73 492
 Width: 804
 Flags: W
-AnchorPoint: "above" 402 1520 basechar 0
-AnchorPoint: "below" 402 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6759,8 +6289,6 @@ StartChar: J
 Encoding: 74 74 493
 Width: 802
 Flags: W
-AnchorPoint: "below" 401 -430 basechar 0
-AnchorPoint: "above" 401 1520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6789,8 +6317,6 @@ StartChar: K
 Encoding: 75 75 494
 Width: 1541
 Flags: W
-AnchorPoint: "above" 770 1520 basechar 0
-AnchorPoint: "below" 770 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6818,8 +6344,6 @@ StartChar: L
 Encoding: 76 76 495
 Width: 1341
 Flags: W
-AnchorPoint: "above" 756 1520 basechar 0
-AnchorPoint: "below" 756 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6842,8 +6366,6 @@ StartChar: M
 Encoding: 77 77 496
 Width: 2099
 Flags: W
-AnchorPoint: "above" 1049 1520 basechar 0
-AnchorPoint: "below" 1049 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6878,8 +6400,6 @@ StartChar: O
 Encoding: 79 79 497
 Width: 1612
 Flags: W
-AnchorPoint: "below" 806 0 basechar 0
-AnchorPoint: "above" 806 1520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6919,8 +6439,6 @@ StartChar: S
 Encoding: 83 83 498
 Width: 1300
 Flags: W
-AnchorPoint: "below" 641 0 basechar 0
-AnchorPoint: "above" 641 1520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6971,8 +6489,6 @@ StartChar: T
 Encoding: 84 84 499
 Width: 1450
 Flags: W
-AnchorPoint: "below" 725 0 basechar 0
-AnchorPoint: "above" 725 1520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6997,8 +6513,6 @@ StartChar: U
 Encoding: 85 85 500
 Width: 1700
 Flags: W
-AnchorPoint: "below" 850 0 basechar 0
-AnchorPoint: "above" 850 1520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7036,8 +6550,6 @@ StartChar: V
 Encoding: 86 86 501
 Width: 1480
 Flags: W
-AnchorPoint: "above" 740 1520 basechar 0
-AnchorPoint: "below" 740 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7061,8 +6573,6 @@ StartChar: W
 Encoding: 87 87 502
 Width: 2269
 Flags: W
-AnchorPoint: "above" 1144 1527 basechar 0
-AnchorPoint: "below" 1144 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7097,8 +6607,6 @@ StartChar: X
 Encoding: 88 88 503
 Width: 1650
 Flags: W
-AnchorPoint: "above" 825 1527 basechar 0
-AnchorPoint: "below" 825 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7127,8 +6635,6 @@ StartChar: Y
 Encoding: 89 89 504
 Width: 1448
 Flags: W
-AnchorPoint: "above" 724 1527 basechar 0
-AnchorPoint: "below" 724 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8057,8 +7563,6 @@ StartChar: x
 Encoding: 120 120 528
 Width: 1384
 Flags: W
-AnchorPoint: "below" 692 0 basechar 0
-AnchorPoint: "above" 692 1147 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8116,8 +7620,6 @@ StartChar: z
 Encoding: 122 122 530
 Width: 1208
 Flags: W
-AnchorPoint: "below" 604 0 basechar 0
-AnchorPoint: "above" 604 1147 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8144,8 +7646,6 @@ StartChar: zero
 Encoding: 48 48 531
 Width: 1303
 Flags: W
-AnchorPoint: "above" 651 1520 basechar 0
-AnchorPoint: "below" 651 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8180,8 +7680,6 @@ StartChar: one
 Encoding: 49 49 532
 Width: 1303
 Flags: W
-AnchorPoint: "above" 651 1520 basechar 0
-AnchorPoint: "below" 651 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8209,8 +7707,6 @@ StartChar: two
 Encoding: 50 50 533
 Width: 1303
 Flags: W
-AnchorPoint: "below" 631 0 basechar 0
-AnchorPoint: "above" 631 1520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8253,8 +7749,6 @@ StartChar: three
 Encoding: 51 51 534
 Width: 1303
 Flags: W
-AnchorPoint: "above" 651 1520 basechar 0
-AnchorPoint: "below" 651 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8301,8 +7795,6 @@ StartChar: four
 Encoding: 52 52 535
 Width: 1303
 Flags: W
-AnchorPoint: "below" 651 0 basechar 0
-AnchorPoint: "above" 651 1520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8334,8 +7826,6 @@ StartChar: five
 Encoding: 53 53 536
 Width: 1303
 Flags: W
-AnchorPoint: "above" 651 1520 basechar 0
-AnchorPoint: "below" 651 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8372,8 +7862,6 @@ StartChar: six
 Encoding: 54 54 537
 Width: 1303
 Flags: W
-AnchorPoint: "above" 651 1520 basechar 0
-AnchorPoint: "below" 651 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8415,8 +7903,6 @@ StartChar: seven
 Encoding: 55 55 538
 Width: 1303
 Flags: W
-AnchorPoint: "above" 651 1520 basechar 0
-AnchorPoint: "below" 651 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8440,8 +7926,6 @@ StartChar: eight
 Encoding: 56 56 539
 Width: 1303
 Flags: W
-AnchorPoint: "above" 651 1520 basechar 0
-AnchorPoint: "below" 651 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8505,8 +7989,6 @@ StartChar: nine
 Encoding: 57 57 540
 Width: 1300
 Flags: W
-AnchorPoint: "below" 651 0 basechar 0
-AnchorPoint: "above" 651 1520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
