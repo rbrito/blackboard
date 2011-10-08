@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1318071242
-ModificationTime: 1318084745
+ModificationTime: 1318086636
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -43,21 +43,21 @@ OS2CodePages: 600001ff.dfff0000
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. Glyphs imported from Arev fonts are (c) Tavmjung Bah (see below)+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoACgAA-Arev Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and+AAoA-associated documentation files (the +ACIA-Font Software+ACIA), to reproduce+AAoA-and distribute the modifications to the Bitstream Vera Font Software,+AAoA-including without limitation the rights to use, copy, merge, publish,+AAoA-distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to+AAoA-the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice+AAoA-shall be included in all copies of one or more of the Font Software+AAoA-typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in+AAoA-particular the designs of glyphs or characters in the Fonts may be+AAoA-modified and additional glyphs or characters may be added to the+AAoA-Fonts, only if the fonts are renamed to names not containing either+AAoA-the words +ACIA-Tavmjong Bah+ACIA or the word +ACIA-Arev+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts+AAoA-or Font Software that has been modified and is distributed under the +AAoAIgAA-Tavmjong Bah Arev+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but+AAoA-no copy of one or more of the Font Software typefaces may be sold by+AAoA-itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL+AAoA-TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the name of Tavmjong Bah shall not+AAoA-be used in advertising or otherwise to promote the sale, use or other+AAoA-dealings in this Font Software without prior written authorization+AAoA-from Tavmjong Bah. For further information, contact: tavmjong @ free+AAoA. fr." "http://dejavu.sourceforge.net/wiki/index.php/License" 
-Encoding: UnicodeBmp
+Encoding: ISO8859-1
 UnicodeInterp: none
-NameList: AGL without afii
-DisplaySize: -36
+NameList: Adobe Glyph List
+DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 33 33 12
+WinInfo: 0 50 15
 BeginPrivate: 1
 BlueValues 31 [-14 0 547 560 729 742 760 760]
 EndPrivate
 TeXData: 1 0 0 333312 166656 111104 573440 -1048576 111104 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65537 536
+BeginChars: 256 76
 
-StartChar: .notdef
-Encoding: 65536 -1 0
+StartChar: uni0000
+Encoding: 0 0 0
 Width: 600
 Flags: W
 HStem: -177 56<106 494> 649 56<106 494>
@@ -3514,8 +3514,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: pi
-Encoding: 960 960 406
+StartChar: Adieresis
+Encoding: 196 196 406
 Width: 702
 Flags: W
 HStem: -8 49<492.798 635.573> 0 49<213 279> 69 44<589.735 635.835> 498 49<80.2666 165 213 279 328 409 458 523 572 661>
@@ -3565,8 +3565,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: gamma
-Encoding: 947 947 407
+StartChar: Atilde
+Encoding: 195 195 407
 Width: 727
 Flags: W
 HStem: -194 49<390 454> 507 53<75.5774 237.082> 527 20G<579 669>
@@ -3597,8 +3597,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Gamma
-Encoding: 915 915 408
+StartChar: Agrave
+Encoding: 192 192 408
 Width: 654
 Flags: W
 HStem: 0 49<146 245> 680 49<146 245 294 648>
@@ -3622,8 +3622,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Pi
-Encoding: 928 928 409
+StartChar: Aacute
+Encoding: 193 193 409
 Width: 848
 Flags: W
 HStem: 0 49<147 246 603 702> 680 49<147 246 294 554 603 702>
@@ -3654,8 +3654,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Sigma
-Encoding: 931 931 410
+StartChar: Acircumflex
+Encoding: 194 194 410
 Width: 810
 Flags: W
 HStem: -192 48<79 206 279 791> 670 49<90 217 290 778>
@@ -3686,8 +3686,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni2145
-Encoding: 8517 8517 411
+StartChar: Aring
+Encoding: 197 197 411
 Width: 818
 Flags: W
 HStem: 0 49<101 200 249 463.354> 680 49<224 322 371 581.212>
@@ -3724,8 +3724,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni2146
-Encoding: 8518 8518 412
+StartChar: AE
+Encoding: 198 198 412
 Width: 708
 Flags: W
 HStem: -14 49<209.616 317.41> 0 45<456 521> 511 49<299.482 407.34> 711 49<585 651>
@@ -3769,8 +3769,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni2147
-Encoding: 8519 8519 413
+StartChar: Ccedilla
+Encoding: 199 199 413
 Width: 615
 Flags: W
 HStem: -14 54<211.852 430.316> 252 49<260 513.094> 506 54<297.644 450.126>
