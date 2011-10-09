@@ -1,0 +1,71 @@
+#!/usr/bin/env python
+
+import glob
+import os
+import os.path
+import subprocess
+import sys
+
+import fontforge
+
+# ### Definition of constants
+FNT_NAME='dejavubb'
+BERRY_NAME='fdjr8a'
+
+# PATH_PREFIX = os.path.join('texmf', 'fonts')
+# PATH_SUFFIX = os.path.join('public', FNT_NAME)
+
+# file_placement = {
+#     '*.afm':     'afm',
+#     '*.fd':      'latex',
+#     '*.pf{b,m}': 'type1',
+#     '*.tfm':     'tfm',
+#     '*.vf':      'vf',
+#     }
+
+
+# def call_fontinst():
+#     """Call fontinst to generate auxiliary files."""
+#     subprocess.call(['tex', 'generator'])
+
+# def call_vptovf(f):
+#     subprocess.call(['vptovf', f])
+
+# def call_pltotf(f):
+#     subprocess.call(['pltotf', f])
+    
+# #for f in *.vpl; do vptovf $f; done
+# #for f in *.pl; do pltotf $f; done
+
+
+# # Create the texmf tree
+# def create_texmf():
+#     for component in ['afm', 'tmf', 'type1', 'latex', 'vf']:
+#         os.makedirs(os.path.join(PATH_PREFIX, component, PATH_SUFFIX))
+#     os.makedirs(os.path.join("texmf/fonts/map/dvips", FNTNAME))
+
+# for g, comp in file_placement.iteritems():
+#     for f in glob.iglob(g):
+#         os.rename(f, os.path.join(PATH_PREFIX, component, PATH_SUFFIX))
+
+
+# print 'fdjr8r dejavubb " TeXBase1Encoding ReEncodeFont " <8r.enc <fdjr8a.pfb' \
+#     > os.path.join(PATH_PREFIX, "map", "dvips/", FNTNAME, FNTNAME + ".map")
+
+# print "Map " + FNTNAME + ".map" > FNTNAME + ".cfg"
+
+# os.makedirs(os.path.expanduser("~/.texmf-config/updmap.d"))
+# os.rename(FNTNAME + ".cfg", os.path.expanduser("~/.texmf-config/updmap.d"))
+
+# print "Don't forget to move the texmf directory to an appropriate place and, then,"
+# print "to call 'update-updmap && updmap'."
+
+
+def sfd_to_type1(font):
+    print "generating '%s'" % font.fontname
+    font.generate("fdjr8a.pfb")
+
+if __name__ == "__main__":
+    for i in sys.argv[1:]:
+        font = fontforge.open(i)
+        sfd_to_type1(font)
