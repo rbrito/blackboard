@@ -1,0 +1,57 @@
+\documentclass[11pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{pxfonts}
+
+\newcommand{\showcase}{0123456789 ABCDEFGHIJKLMNOPQRSTUVWXYZ k}
+
+\title{Blackboard letters from DejaVu fonts for \TeX}
+\author{Rogério Theodoro de Brito}
+\date{2011-10-09}
+
+%% This works for plain TeX
+\font\blackboardfont=fdjr8r at 10pt
+
+%% This works for LaTeX
+\newfont{\bbold}{fdjr8r at 10pt}
+
+
+\begin{document}
+\maketitle
+\section{Introduction}
+
+It is a frequent question among users of \TeX/\LaTeX{} on how one can use
+blackboard fonts, similar to those provided by the AMS fonts with the
+command \texttt{mathbb}, but with a wider variety of symbols. There are many
+possibilities, like the use of the \emph{fourier} package (with its
+\texttt{fourierbb} font), various double-strock fonts, and the \emph{bbold}
+package.
+
+The DejaVu fonts created by the DejaVu project has widely extended the work
+of Bitstream in their Vera family of fonts and one of such extensions is the
+inclusion of characters beyond the Basic Multiplane of Unicode with the
+glyphs of blackboard fonts. The production of the DejaVu project is very
+aesthetically pleasing and more complete than some of the offerings of
+today.
+
+It is possible to argue that with newer engines like Xe\TeX{} and Lua\TeX,
+and efforts like Will Robertson's \emph{fontspec} and \emph{unicode-math},
+and rich OpenType fonts (like Khaled Hosny's \emph{XITS} fonts), such
+problems are completely solved for new texts.
+
+But there are many users that don't want to (or can't) change their set up
+for many reasons (not the least for writing texts with coauthors).
+
+With this in mind, this very tiny subset o the DejaVu Sans fonts, made ready
+for use with regular \TeX, \LaTeX, and pdf\TeX{} allows the users some wider
+range of choice in the typesetting of their current texts.
+
+\section{Examples}
+
+For \TeX: {\blackboardfont \showcase}
+
+Regular: \showcase
+
+For \LaTeX: {\bbold \showcase}
+\end{document}
