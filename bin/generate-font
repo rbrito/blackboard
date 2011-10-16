@@ -8,64 +8,74 @@ import sys
 
 import fontforge
 
-# ### Definition of constants
-FNT_NAME='dejavubb'
-BERRY_NAME='fdjr8a'
 
-# PATH_PREFIX = os.path.join('texmf', 'fonts')
-# PATH_SUFFIX = os.path.join('public', FNT_NAME)
+### Definition of constants
+FNT_NAME = 'dejavubb'
+FNT_BERRY_NAME = 'fdjr8a'
+FNT_EXTENSION = 'pfb'
+FNT_CONF_FILE = FNT_NAME + '.cfg'
+FNT_MAP_FILE = FNT_NAME + '.map'
 
-# file_placement = {
-#     '*.afm':     'afm',
-#     '*.fd':      'latex',
-#     '*.pf{b,m}': 'type1',
-#     '*.tfm':     'tfm',
-#     '*.vf':      'vf',
-#     }
+PATH_PREFIX = os.path.join('texmf', 'fonts')
+PATH_SUFFIX = os.path.join('public', FNT_NAME)
+
+file_placement = {
+    '*.afm':    'afm',
+    '*.fd':     'latex',
+    '*.pf*':    'type1',
+    '*.tfm':    'tfm',
+    '*.vf':     'vf',
+    }
 
 
-# def call_fontinst():
-#     """Call fontinst to generate auxiliary files."""
-#     subprocess.call(['tex', 'generator'])
+### Auxiliary functions
+def create_type1(font_source):
+    '''Create Type 1 font from the source font.'''
+    font = fontforge.open(font_source)
+    font.generate(FNT_BERRY_NAME + '.pfb')
+    font.close()
 
-# def call_vptovf(f):
-#     subprocess.call(['vptovf', f])
+def call_fontinst():
+    '''Create tex-specific font files.'''
+    subprocess.call(['tex', 'tex/generator'])
+    for f in glob.iglob('*.vpl'):
+        subprocess.call(['vptovf', f])
+    for f in glob.iglob('*.pl'):
+        subprocess.call(['pltotf', f])
 
-# def call_pltotf(f):
-#     subprocess.call(['pltotf', f])
+def create_texmf():
+    '''Create the texmf directory tree.'''
+    for component in ['afm', 'tfm', 'type1', 'latex', 'vf']:
+        os.makedirs(os.path.join(PATH_PREFIX, component, PATH_SUFFIX))
+    os.makedirs(os.path.join(PATH_PREFIX, 'map', 'dvips', FNT_NAME))
+
+def populate_texmf():
+    '''Move files to appropriate subdirs of the texmf tree.'''
+    for what, where in file_placement.iteritems():
+        for file in glob.iglob(what):
+            os.rename(file, os.path.join(PATH_PREFIX, where, PATH_SUFFIX, file))
+
+def clean_aux_files():
+    globs = ['*.vpl', '*.mtx', '*.pl', '*.log']
+    for what in globs:
+        for file in glob.iglob(what):
+            os.unlink(file)
     
-# #for f in *.vpl; do vptovf $f; done
-# #for f in *.pl; do pltotf $f; done
-
-
-# # Create the texmf tree
-# def create_texmf():
-#     for component in ['afm', 'tmf', 'type1', 'latex', 'vf']:
-#         os.makedirs(os.path.join(PATH_PREFIX, component, PATH_SUFFIX))
-#     os.makedirs(os.path.join("texmf/fonts/map/dvips", FNTNAME))
-
-# for g, comp in file_placement.iteritems():
-#     for f in glob.iglob(g):
-#         os.rename(f, os.path.join(PATH_PREFIX, component, PATH_SUFFIX))
-
-
 # print 'fdjr8r dejavubb " TeXBase1Encoding ReEncodeFont " <8r.enc <fdjr8a.pfb' \
-#     > os.path.join(PATH_PREFIX, "map", "dvips/", FNTNAME, FNTNAME + ".map")
+#     > os.path.join(PATH_PREFIX, "map", "dvips", FNT_NAME, FNT_MAP_FILE)
 
-# print "Map " + FNTNAME + ".map" > FNTNAME + ".cfg"
+# print "Map " + FNT_MAP_FILE > FNT_CONF_FILE
 
-# os.makedirs(os.path.expanduser("~/.texmf-config/updmap.d"))
-# os.rename(FNTNAME + ".cfg", os.path.expanduser("~/.texmf-config/updmap.d"))
+# user_dir = os.path.expanduser(os.path.join('~', '.texmf-config', 'updmap.d'))
+# os.makedirs(user_dir)
+# os.rename(FNT_CONF_FILE, os.path.join(user_dir, FNT_CONF_FILE))
 
 # print "Don't forget to move the texmf directory to an appropriate place and, then,"
 # print "to call 'update-updmap && updmap'."
 
-
-def sfd_to_type1(font):
-    print "generating '%s'" % font.fontname
-    font.generate("fdjr8a.pfb")
-
 if __name__ == "__main__":
-    for i in sys.argv[1:]:
-        font = fontforge.open(i)
-        sfd_to_type1(font)
+    create_type1('sfd/dejavubb.sfd')
+    call_fontinst()
+    create_texmf()
+    populate_texmf()
+    clean_aux_files()
