@@ -1,7 +1,73 @@
-%% Stolen from the bbold package.
+%%Generayed by autoinst on 2011/10/18
+%%
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesPackage{dejavubb}[2011/10/08 dejavubb package]
-\newcommand{\bbfamily}{\fontencoding{T1}\fontfamily{dejavubb}\selectfont}
-\newcommand{\textbb}[1]{{\bbfamily#1}}
-\DeclareMathAlphabet{\mathbb}{T1}{dejavubb}{m}{n}
+\ProvidesPackage{dejavubb}
+    [2011/10/18 (autoinst)  Style file for dejavubb.]
+    
+\RequirePackage[T1]{fontenc}
+\RequirePackage{textcomp}
+\IfFileExists{fontaxes.sty}{
+    \RequirePackage{fontaxes}
+    \providecommand{\tldefault}{tl}
+    \DeclareRobustCommand\tlshape{\not@math@alphabet\tlshape\relax
+        \fontsecondaryshape\tldefault\selectfont}
+    \DeclareTextFontCommand{\texttl}{\tlshape}
+    \let\texttitling\texttl
+    \fa@naming@exception{shape}{{n}{tl}}{tl}
+    \fa@naming@exception{shape}{{it}{tl}}{tlit}
+    
+    \DeclareRobustCommand\swshape{\not@math@alphabet\swshape\relax
+        \fontprimaryshape\itdefault\fontsecondaryshape\swdefault\selectfont}
+    \fa@naming@exception{shape}{{n}{sw}}{nw}
+    \fa@naming@exception{shape}{{it}{sw}}{sw}
+    
+    \fa@naming@exception{figures}{{superior}{proportional}}{Sup}
+    \fa@naming@exception{figures}{{superior}{tabular}}{Sup}
+    \def\sufigures{\@nomath\sufigures
+        \fontfigurestyle{superior}\selectfont}
+    \DeclareTextFontCommand{\textsu}{\sufigures}
+    \let\textsuperior\textsu
+    
+    \fa@naming@exception{figures}{{inferior}{proportional}}{Inf}
+    \fa@naming@exception{figures}{{inferior}{tabular}}{Inf}
+    \def\infigures{\@nomath\infigures
+        \fontfigurestyle{inferior}\selectfont}
+    \DeclareTextFontCommand{\textin}{\infigures}
+    \let\textinferior\textin
+    
+    \fa@naming@exception{figures}{{ornament}{proportional}}{Orn}
+    \fa@naming@exception{figures}{{ornament}{tabular}}{Orn}
+    \def\ornaments{\@nomath\ornaments
+        \fontencoding{U}\fontfigurestyle{ornament}\selectfont}
+    \DeclareTextFontCommand{\textornaments}{\ornaments}
+    \providecommand{\ornament}[1]{\textornaments{\char##1}}
+    
+    \fa@naming@exception{figures}{{numerators}{proportional}}{Numr}
+    \fa@naming@exception{figures}{{numerators}{tabular}}{Numr}
+
+    \fa@naming@exception{figures}{{denominators}{proportional}}{Dnom}
+    \fa@naming@exception{figures}{{denominators}{tabular}}{Dnom}
+}{}
+
+\IfFileExists{xkeyval.sty}{
+    \newcommand*{\dejavubb@scale}{1}
+    \RequirePackage{xkeyval}
+    \DeclareOptionX{scaled}{\renewcommand*{\dejavubb@scale}{##1}}
+}{
+    \let\DeclareOptionX\DeclareOption
+    \let\ExecuteOptionsX\ExecuteOptions
+    \let\ProcessOptionsX\ProcessOptions
+}
+
+\DeclareOptionX{lining}{\edef\dejavubb@figurestyle{LF}}
+\DeclareOptionX{tabular}{\edef\dejavubb@figurealign{T}}
+\DeclareOptionX{regular}{\renewcommand*{\mddefault}{m}}
+\ExecuteOptionsX{lining,tabular,regular}
+\ProcessOptionsX\relax
+
+\renewcommand*
+    {\rmdefault}
+    {dejavubb-\dejavubb@figurealign\dejavubb@figurestyle}
+\renewcommand*{\familydefault}{\rmdefault}
+
 \endinput
